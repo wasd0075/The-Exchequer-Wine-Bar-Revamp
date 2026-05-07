@@ -1,0 +1,1001 @@
+Customer ID,Visit Date Time,Rating,Footfall Category,Preferred Food Segment,Residential Area,Customer Type,Age,Gender,Nationality
+41-9360890,2/18/2025,2.8,Afternoon,Wine,Near restaurant,Tourist,1,Female,Cherokee
+54-6461403,06-08-2024,3.3,Evening,Wine,Near restaurant,Regular,2,Female,Asian
+80-7806430,2/26/2025,1.9,Morning,Wine,Far,Seldom,3,Female,Dominican (Dominican Republic)
+25-0389569,6/14/2024,1.9,Night,Snacks,Far,Seldom,4,Male,Paiute
+53-4482050,6/24/2024,3.6,Evening,Wine,Far,Tourist,5,Female,Chinese
+64-8974676,6/22/2024,3.1,Evening,Wine,Far,Seldom,6,Female,Seminole
+52-2394693,02-11-2025,2,Night,Wine,Far,First-timer,7,Male,Japanese
+62-0418168,10-04-2024,3.7,Evening,Continental,Local,First-timer,8,Male,Chilean
+66-2826183,10/14/2024,3.7,Afternoon,Continental,Local,First-timer,9,Female,Apache
+57-6847555,6/24/2024,4.8,Evening,Irish,Near restaurant,Regular,10,Female,Blackfeet
+37-5487788,3/19/2024,1.7,Night,Wine,Far,Regular,11,Female,Peruvian
+80-3921884,05-06-2024,2.3,Night,Wine,Local,Tourist,12,Male,Salvadoran
+90-4374792,1/22/2025,1.6,Afternoon,Snacks,Near restaurant,Tourist,13,Female,Korean
+25-4394615,10/24/2024,4,Morning,Snacks,Near restaurant,Seldom,14,Male,Hmong
+50-6832440,11/25/2024,3.2,Evening,Continental,Far,First-timer,15,Female,Chinese
+69-5695249,9/15/2024,1.5,Afternoon,Snacks,Local,Seldom,16,Male,Dominican (Dominican Republic)
+07-1488077,10/25/2024,2.4,Afternoon,Continental,Far,First-timer,17,Male,Asian
+39-9139193,12-04-2024,3.5,Morning,Snacks,Local,Regular,18,Male,Thai
+35-0955785,05-06-2024,1.8,Afternoon,Irish,Local,Seldom,19,Female,Malaysian
+81-8539884,10/22/2024,2.9,Night,Irish,Local,First-timer,20,Male,American Indian and Alaska Native (AIAN)
+80-9545573,3/15/2024,2,Afternoon,Irish,Local,Tourist,21,Female,Paraguayan
+31-7640401,05-10-2024,4.8,Morning,Irish,Near restaurant,Tourist,22,Female,Cherokee
+85-3705929,12/22/2024,3.2,Night,Continental,Near restaurant,Regular,23,Male,Central American
+04-6872759,9/28/2024,2.6,Morning,Wine,Far,First-timer,24,Male,Navajo
+20-8595373,9/26/2024,3.6,Night,Wine,Far,Regular,25,Male,Ute
+85-0488194,6/17/2024,4.4,Night,Snacks,Far,Seldom,26,Female,Nicaraguan
+01-3840185,08-11-2024,1.5,Evening,Snacks,Near restaurant,Regular,27,Male,Cuban
+75-2391101,1/15/2025,2.9,Afternoon,Snacks,Near restaurant,Regular,28,Male,Yuman
+32-1399230,7/20/2024,4.7,Afternoon,Continental,Far,Tourist,29,Male,Tongan
+78-1773554,8/29/2024,2.5,Night,Snacks,Far,First-timer,30,Female,Houma
+70-0939821,3/28/2024,2.2,Afternoon,Snacks,Near restaurant,First-timer,31,Male,Blackfeet
+63-6026276,07-06-2024,1,Evening,Wine,Near restaurant,First-timer,32,Female,Peruvian
+77-2370384,07-08-2024,3.1,Morning,Wine,Local,First-timer,33,Female,Filipino
+49-3251118,12-01-2024,4.8,Morning,Wine,Local,Regular,34,Male,Thai
+87-5467284,4/13/2024,2.4,Night,Irish,Far,Seldom,35,Male,Polynesian
+69-0960986,2/15/2025,3.6,Afternoon,Continental,Local,Tourist,36,Female,Iroquois
+73-4552933,5/14/2024,1.3,Afternoon,Wine,Far,Seldom,37,Male,Osage
+05-6320458,07-01-2024,4.4,Morning,Continental,Near restaurant,First-timer,38,Female,Korean
+68-8293871,11-01-2024,3.9,Night,Snacks,Far,Seldom,39,Male,White
+60-8968717,12-09-2024,2.8,Night,Snacks,Local,Seldom,40,Female,Fijian
+32-6412337,04-04-2024,4.9,Night,Snacks,Far,Regular,41,Female,Crow
+94-3168357,06-01-2024,2.2,Night,Wine,Far,Regular,42,Male,Apache
+82-2294038,7/22/2024,2.6,Evening,Snacks,Near restaurant,First-timer,43,Female,Aleut
+69-7405166,9/25/2024,1.3,Night,Snacks,Near restaurant,Seldom,44,Female,Crow
+47-9582435,08-10-2024,1.1,Evening,Snacks,Local,First-timer,45,Male,Crow
+91-9244888,9/22/2024,4.4,Morning,Snacks,Local,First-timer,46,Male,Micronesian
+19-2851911,2/24/2025,2.3,Afternoon,Continental,Near restaurant,First-timer,47,Male,Yaqui
+98-8112412,03-06-2025,4.1,Morning,Continental,Near restaurant,Regular,48,Male,Colville
+84-3864508,06-05-2024,3.1,Morning,Continental,Far,Tourist,49,Female,Yaqui
+73-8330926,04-02-2024,3.5,Afternoon,Irish,Local,Tourist,50,Male,Pakistani
+73-9244118,5/14/2024,3.7,Evening,Continental,Near restaurant,First-timer,51,Male,Korean
+94-1795784,09-05-2024,2.1,Night,Irish,Near restaurant,Regular,52,Female,White
+42-6365061,6/17/2024,1.5,Night,Irish,Near restaurant,Tourist,53,Male,Taiwanese
+25-9107614,2/17/2025,2.4,Evening,Continental,Far,Regular,54,Female,Cree
+32-3746982,12/16/2024,3.1,Afternoon,Continental,Far,Tourist,55,Female,Navajo
+62-2266006,6/23/2024,2.9,Morning,Snacks,Local,Regular,56,Male,Nicaraguan
+74-7644012,04-04-2024,4,Morning,Continental,Far,Tourist,57,Female,Eskimo
+53-5957788,11-03-2024,4.6,Evening,Snacks,Far,Seldom,58,Female,Native Hawaiian and Other Pacific Islander (NHPI)
+90-8694308,03-08-2025,3.7,Morning,Snacks,Local,First-timer,59,Female,Vietnamese
+07-0674746,11/24/2024,1.3,Night,Irish,Local,First-timer,60,Female,Native Hawaiian
+59-9644125,5/29/2024,3.1,Morning,Continental,Far,Regular,61,Female,Pima
+88-7036938,09-03-2024,1.3,Evening,Irish,Near restaurant,Seldom,62,Female,Alaskan Athabascan
+18-2182927,8/20/2024,4.9,Morning,Snacks,Near restaurant,Tourist,63,Male,Comanche
+99-6422611,1/21/2025,4.9,Night,Snacks,Local,Tourist,64,Male,Korean
+88-0631326,1/15/2025,4,Morning,Wine,Far,Tourist,65,Male,Comanche
+69-2574518,8/15/2024,2.7,Afternoon,Wine,Far,First-timer,66,Male,Central American
+22-1642524,10/20/2024,3.8,Afternoon,Wine,Local,Regular,67,Female,Samoan
+81-9674363,4/26/2024,4.6,Afternoon,Irish,Local,Regular,68,Female,Japanese
+29-2319667,11/21/2024,4.7,Evening,Continental,Local,First-timer,69,Female,Melanesian
+66-4323077,12/30/2024,1.6,Afternoon,Snacks,Local,Tourist,70,Female,Cheyenne
+94-1035288,7/30/2024,4.7,Morning,Irish,Local,Tourist,71,Male,Salvadoran
+89-8034988,09-06-2024,4.2,Afternoon,Irish,Local,First-timer,72,Female,Thai
+91-7715518,04-02-2024,3.1,Afternoon,Wine,Near restaurant,Tourist,73,Female,Paraguayan
+50-5283768,9/15/2024,1.4,Morning,Snacks,Far,Tourist,74,Female,Chippewa
+45-8973327,02-02-2025,3.5,Afternoon,Snacks,Near restaurant,First-timer,75,Female,Creek
+61-3883286,1/17/2025,1.3,Night,Irish,Local,Tourist,76,Male,Puget Sound Salish
+33-0364262,11/13/2024,1.6,Night,Wine,Far,First-timer,77,Female,Ecuadorian
+17-1492003,02-01-2025,2.5,Evening,Irish,Far,First-timer,78,Female,Dominican (Dominican Republic)
+58-1310011,1/21/2025,4.6,Evening,Snacks,Far,First-timer,79,Female,Alaska Native
+39-3502871,8/23/2024,2.4,Afternoon,Wine,Far,Regular,80,Female,Fijian
+88-0291264,03-08-2025,2.6,Night,Irish,Local,Seldom,81,Female,Laotian
+04-7140532,11-12-2024,2.9,Night,Wine,Local,First-timer,82,Female,Pakistani
+84-4192070,9/16/2024,1.7,Morning,Snacks,Near restaurant,Tourist,83,Female,Cambodian
+88-9082645,8/15/2024,2.8,Evening,Wine,Local,First-timer,84,Female,Bolivian
+76-6900373,05-02-2024,4.5,Morning,Snacks,Far,Tourist,85,Male,Malaysian
+92-6690670,07-07-2024,1.8,Afternoon,Irish,Local,First-timer,86,Female,Black or African American
+51-9166168,11-01-2024,4.6,Morning,Snacks,Local,First-timer,87,Male,Apache
+04-1722574,8/23/2024,3.1,Evening,Wine,Near restaurant,Regular,88,Male,Native Hawaiian and Other Pacific Islander (NHPI)
+28-7686483,10/22/2024,1.4,Night,Continental,Far,First-timer,89,Male,Potawatomi
+46-5555907,10-10-2024,3.2,Evening,Continental,Local,Regular,90,Male,White
+32-2843013,11/29/2024,3.6,Evening,Continental,Near restaurant,Regular,91,Male,Salvadoran
+67-9354748,9/21/2024,4.7,Evening,Continental,Near restaurant,First-timer,92,Female,Asian
+60-8419029,3/27/2024,2.8,Afternoon,Snacks,Near restaurant,Seldom,93,Male,Melanesian
+59-7855531,11/28/2024,2.7,Evening,Irish,Far,Tourist,94,Male,White
+05-8040862,07-12-2024,1.2,Evening,Wine,Local,Seldom,95,Female,Pima
+45-7950353,9/28/2024,1.9,Afternoon,Irish,Far,Regular,96,Female,Chamorro
+47-0316702,11/22/2024,3.1,Evening,Wine,Local,Seldom,97,Female,Aleut
+84-5660595,10/29/2024,4.9,Evening,Irish,Local,Seldom,98,Male,Honduran
+65-9124857,8/15/2024,1.7,Night,Snacks,Far,Seldom,99,Female,Crow
+09-9883361,08-11-2024,2.6,Evening,Continental,Far,Tourist,100,Female,Fijian
+68-5047725,12-01-2024,1.7,Afternoon,Snacks,Near restaurant,Tourist,101,Male,Samoan
+82-7380787,05-08-2024,1.7,Afternoon,Wine,Near restaurant,Tourist,102,Male,Peruvian
+08-6884057,12-06-2024,4.7,Afternoon,Continental,Local,Tourist,103,Female,Lumbee
+48-1284580,6/15/2024,3.7,Morning,Irish,Far,Seldom,104,Female,Aleut
+09-5489878,02-08-2025,3.1,Night,Wine,Near restaurant,First-timer,105,Female,Panamanian
+78-0049951,10-11-2024,3.8,Morning,Irish,Local,Seldom,106,Female,Tlingit-Haida
+86-1691111,05-08-2024,4.7,Evening,Snacks,Far,First-timer,107,Female,Ute
+80-5198549,02-05-2025,4.4,Afternoon,Snacks,Near restaurant,Seldom,108,Male,Chinese
+50-7242505,07-06-2024,2.8,Evening,Snacks,Local,Tourist,109,Female,Spaniard
+30-3464661,7/14/2024,3.9,Afternoon,Irish,Local,Tourist,110,Male,Colville
+30-3121552,10-06-2024,4.2,Morning,Wine,Local,Regular,111,Male,Delaware
+94-8456725,2/21/2025,2.2,Afternoon,Irish,Local,Tourist,112,Male,American Indian and Alaska Native (AIAN)
+87-0815806,03-09-2025,4.5,Afternoon,Snacks,Local,First-timer,113,Female,Venezuelan
+99-0659312,11-07-2024,4.5,Afternoon,Continental,Near restaurant,Seldom,114,Male,Paiute
+94-5482991,10/25/2024,3.9,Morning,Continental,Near restaurant,Tourist,115,Male,Ottawa
+86-8145240,10-03-2024,2.8,Evening,Wine,Near restaurant,Regular,116,Male,Choctaw
+48-7379809,10-07-2024,1.8,Morning,Irish,Far,Regular,117,Female,Delaware
+83-8964842,12/13/2024,3.4,Afternoon,Irish,Near restaurant,Tourist,118,Male,Cuban
+16-8444938,01-12-2025,1.8,Afternoon,Irish,Near restaurant,First-timer,119,Male,Iroquois
+56-6141964,11/23/2024,4.5,Evening,Wine,Near restaurant,Seldom,120,Female,Comanche
+91-1340663,8/28/2024,4.1,Morning,Continental,Local,Regular,121,Male,Korean
+73-1081183,1/28/2025,2.4,Morning,Wine,Local,Seldom,122,Male,South American
+74-7155454,2/20/2025,1.5,Afternoon,Continental,Far,Tourist,123,Female,Latin American Indian
+31-1406950,11/16/2024,1.1,Morning,Snacks,Near restaurant,First-timer,124,Female,Venezuelan
+68-8704924,1/28/2025,3.4,Afternoon,Continental,Local,Regular,125,Female,Delaware
+61-7817649,08-07-2024,3.7,Morning,Irish,Far,First-timer,126,Female,Tongan
+79-7086593,05-05-2024,2.9,Evening,Irish,Local,Seldom,127,Female,Apache
+55-8668498,5/16/2024,2.4,Evening,Continental,Near restaurant,Regular,128,Female,Asian Indian
+99-1533676,2/15/2025,2.3,Afternoon,Snacks,Local,Regular,129,Male,Guamanian
+34-8062857,03-12-2024,4.7,Afternoon,Continental,Near restaurant,Regular,130,Male,Paiute
+90-1173154,5/26/2024,2,Evening,Snacks,Local,Regular,131,Female,Paiute
+36-5043790,07-04-2024,2.8,Afternoon,Wine,Far,Regular,132,Female,Filipino
+54-2312414,10/27/2024,2.4,Afternoon,Continental,Local,Seldom,133,Male,Vietnamese
+43-6270524,4/26/2024,3.7,Evening,Irish,Near restaurant,Tourist,134,Female,Iroquois
+19-7262793,1/16/2025,4.2,Morning,Irish,Near restaurant,Regular,135,Female,Choctaw
+27-4214303,10-08-2024,3.6,Morning,Irish,Local,Regular,136,Female,Blackfeet
+31-0311072,7/21/2024,3.3,Morning,Irish,Near restaurant,Tourist,137,Male,Delaware
+61-5325700,01-04-2025,1.7,Night,Wine,Near restaurant,Regular,138,Male,South American
+94-9336287,06-05-2024,2.2,Night,Snacks,Near restaurant,First-timer,139,Male,Melanesian
+91-7469260,12-11-2024,4.6,Morning,Snacks,Near restaurant,Tourist,140,Male,Asian Indian
+59-3671770,07-10-2024,3.4,Evening,Irish,Far,First-timer,141,Male,Lumbee
+55-2663387,07-10-2024,2,Night,Wine,Near restaurant,First-timer,142,Female,Alaskan Athabascan
+08-4486377,12-09-2024,2.9,Evening,Wine,Near restaurant,Tourist,143,Male,Cherokee
+94-6259090,09-03-2024,3.5,Morning,Snacks,Near restaurant,First-timer,144,Female,Potawatomi
+75-5893749,12/16/2024,3.2,Evening,Continental,Far,Tourist,145,Male,Hmong
+50-2119935,5/31/2024,1.4,Evening,Snacks,Near restaurant,First-timer,146,Female,Colville
+87-1290380,6/22/2024,3.8,Evening,Snacks,Local,Seldom,147,Male,Menominee
+03-1096829,5/17/2024,2.8,Night,Irish,Near restaurant,First-timer,148,Male,Kiowa
+49-0364028,4/14/2024,3.6,Evening,Wine,Far,First-timer,149,Male,Cherokee
+54-0401193,08-12-2024,1.6,Night,Irish,Local,Regular,150,Male,Nicaraguan
+24-6577372,3/25/2024,1.9,Evening,Snacks,Far,First-timer,151,Male,Asian
+69-1781853,09-06-2024,2.7,Afternoon,Wine,Local,Tourist,152,Female,Tongan
+15-6819745,03-09-2025,4,Morning,Irish,Far,Seldom,153,Female,Guamanian
+73-5294573,2/24/2025,2.9,Morning,Snacks,Far,Tourist,154,Male,Puerto Rican
+91-5474492,5/16/2024,2.4,Night,Wine,Far,Regular,155,Male,Black or African American
+00-0833380,06-08-2024,4.6,Morning,Irish,Near restaurant,Tourist,156,Male,Comanche
+50-9228014,9/25/2024,1.6,Morning,Wine,Near restaurant,First-timer,157,Female,White
+45-6728445,2/27/2025,3.6,Afternoon,Snacks,Local,Regular,158,Male,Navajo
+62-9948208,11/23/2024,4.4,Morning,Continental,Far,Tourist,159,Male,Shoshone
+50-1791227,10-08-2024,3.7,Night,Wine,Local,Seldom,160,Male,Micronesian
+45-6881118,9/28/2024,4.2,Morning,Irish,Local,Regular,161,Female,Nicaraguan
+42-8581263,5/18/2024,3,Night,Wine,Local,Tourist,162,Male,Delaware
+21-3984839,04-09-2024,1.5,Evening,Continental,Near restaurant,Tourist,163,Male,Cherokee
+02-6041388,7/20/2024,3.4,Afternoon,Snacks,Local,First-timer,164,Female,Melanesian
+46-4094168,1/30/2025,1.3,Evening,Continental,Near restaurant,First-timer,165,Female,Argentinian
+75-6566949,12-11-2024,1.3,Afternoon,Continental,Far,Regular,166,Male,Iroquois
+82-3010854,10-05-2024,2,Afternoon,Irish,Far,Regular,167,Male,Iroquois
+25-4511511,10-04-2024,4.9,Night,Irish,Local,Regular,168,Male,Japanese
+65-9481791,01-02-2025,2.5,Night,Snacks,Near restaurant,Tourist,169,Male,Vietnamese
+23-7839949,4/16/2024,3.9,Morning,Wine,Local,Tourist,170,Male,Alaskan Athabascan
+88-3238163,5/30/2024,1,Evening,Wine,Near restaurant,Regular,171,Female,Pima
+16-8243006,7/25/2024,4.9,Night,Wine,Near restaurant,Tourist,172,Female,Puget Sound Salish
+51-3062455,1/16/2025,2.1,Night,Irish,Local,Seldom,173,Male,Chamorro
+70-6135077,06-10-2024,2.8,Evening,Irish,Far,Seldom,174,Female,Dominican (Dominican Republic)
+65-9749980,09-04-2024,2.9,Morning,Continental,Near restaurant,Tourist,175,Male,Houma
+05-0126385,11/15/2024,3.6,Afternoon,Wine,Far,First-timer,176,Male,Asian
+35-5896100,09-10-2024,4.4,Morning,Snacks,Near restaurant,Seldom,177,Male,Salvadoran
+82-0709790,02-12-2025,4.1,Afternoon,Irish,Local,Seldom,178,Female,Choctaw
+11-7867002,3/15/2024,2.5,Morning,Wine,Local,First-timer,179,Male,Ottawa
+85-8631731,7/22/2024,1.8,Morning,Continental,Far,Seldom,180,Female,Choctaw
+53-1750372,7/14/2024,4.2,Morning,Irish,Near restaurant,Tourist,181,Male,Choctaw
+39-1289934,11/29/2024,4.3,Evening,Irish,Far,First-timer,182,Female,Eskimo
+34-1922507,03-06-2025,1.5,Night,Wine,Near restaurant,Tourist,183,Female,Kiowa
+79-9368446,02-11-2025,2.2,Evening,Continental,Local,Seldom,184,Male,Eskimo
+80-6762443,7/27/2024,2.1,Night,Irish,Near restaurant,First-timer,185,Female,Houma
+56-4785294,03-01-2025,2.6,Afternoon,Wine,Near restaurant,Regular,186,Male,Tongan
+46-0545349,02-10-2025,4.3,Evening,Irish,Far,Tourist,187,Male,Melanesian
+24-9535090,11/16/2024,1.9,Night,Irish,Local,Tourist,188,Female,Houma
+43-2323650,9/29/2024,4.4,Afternoon,Irish,Far,First-timer,189,Female,Lumbee
+46-9431765,08-01-2024,1.8,Evening,Irish,Local,Regular,190,Male,Chippewa
+08-3071225,8/13/2024,2.5,Evening,Wine,Local,Regular,191,Female,Malaysian
+76-1943759,9/27/2024,3.3,Morning,Snacks,Near restaurant,Seldom,192,Male,Apache
+50-5986248,08-05-2024,1.2,Night,Wine,Near restaurant,First-timer,193,Female,White
+17-1938502,04-06-2024,2.6,Morning,Wine,Near restaurant,Seldom,194,Female,Creek
+13-9572769,01-03-2025,4.7,Evening,Continental,Far,First-timer,195,Male,Iroquois
+62-9912650,11/25/2024,4.7,Morning,Continental,Local,Seldom,196,Female,Puget Sound Salish
+42-3200275,2/28/2025,1.6,Afternoon,Continental,Far,Seldom,197,Female,Colombian
+36-5263130,05-03-2024,2.9,Afternoon,Continental,Local,Regular,198,Female,Bolivian
+31-2916631,11/27/2024,1.9,Evening,Snacks,Near restaurant,Tourist,199,Female,Venezuelan
+17-2297036,12-03-2024,4.5,Morning,Wine,Far,Tourist,200,Male,Argentinian
+96-2516458,06-08-2024,3.3,Afternoon,Continental,Local,First-timer,201,Female,Salvadoran
+79-2169045,3/15/2024,3.6,Morning,Irish,Near restaurant,Seldom,202,Female,Japanese
+55-8194819,09-03-2024,1.2,Afternoon,Continental,Local,Tourist,203,Male,Micronesian
+85-9096395,11/16/2024,3.7,Evening,Snacks,Far,Regular,204,Male,Chippewa
+40-3656346,02-02-2025,1.2,Afternoon,Continental,Local,Tourist,205,Female,Salvadoran
+18-6215123,5/14/2024,1.4,Evening,Irish,Near restaurant,First-timer,206,Male,Cambodian
+70-8759457,7/20/2024,3.2,Morning,Irish,Local,Seldom,207,Male,Paraguayan
+30-5257389,11/13/2024,1.9,Night,Continental,Near restaurant,Tourist,208,Male,Chamorro
+33-3685722,05-12-2024,1.4,Afternoon,Continental,Near restaurant,Tourist,209,Female,Yuman
+60-6449415,1/31/2025,1.3,Morning,Snacks,Local,Tourist,210,Male,Black or African American
+73-6317050,09-04-2024,4.4,Evening,Wine,Near restaurant,Seldom,211,Male,Fijian
+87-5629371,4/14/2024,4.5,Afternoon,Irish,Near restaurant,First-timer,212,Male,Laotian
+35-9754984,12-06-2024,4.2,Morning,Snacks,Far,Seldom,213,Female,Guatemalan
+89-2771743,9/18/2024,4.6,Morning,Snacks,Near restaurant,First-timer,214,Male,Eskimo
+22-1263472,12/16/2024,4.7,Morning,Continental,Far,Seldom,215,Female,Pima
+95-7448112,10-06-2024,3.6,Night,Irish,Local,Regular,216,Male,Sioux
+14-0232346,8/25/2024,1.1,Night,Wine,Local,Tourist,217,Male,Apache
+59-0131819,6/21/2024,2.9,Morning,Wine,Local,Seldom,218,Female,Micronesian
+91-8145741,11/26/2024,4.5,Morning,Snacks,Far,Seldom,219,Female,Houma
+23-1609723,04-12-2024,4.5,Night,Snacks,Far,First-timer,220,Female,Mexican
+35-7867331,09-03-2024,3,Afternoon,Continental,Local,Tourist,221,Male,Eskimo
+86-2225874,04-09-2024,4.5,Morning,Snacks,Near restaurant,First-timer,222,Male,Cambodian
+25-7860378,12/25/2024,2.1,Evening,Snacks,Far,First-timer,223,Male,Chilean
+28-5724879,11/30/2024,3.6,Evening,Wine,Far,Seldom,224,Female,Comanche
+52-6129048,11-12-2024,3.8,Afternoon,Snacks,Near restaurant,Regular,225,Female,Yuman
+18-9325133,3/16/2024,2.3,Evening,Continental,Near restaurant,First-timer,226,Female,Cuban
+25-2834210,06-07-2024,4.7,Afternoon,Irish,Far,Seldom,227,Male,Black or African American
+37-8935427,5/16/2024,1.3,Morning,Continental,Far,Tourist,228,Male,Apache
+33-2084631,2/26/2025,4.2,Evening,Snacks,Near restaurant,First-timer,229,Male,Yuman
+98-2293738,1/25/2025,1.7,Afternoon,Snacks,Local,Regular,230,Female,Colombian
+74-5892585,05-12-2024,1.3,Evening,Snacks,Near restaurant,Seldom,231,Female,Fijian
+65-4489124,07-08-2024,3.3,Afternoon,Wine,Local,Tourist,232,Female,Tongan
+22-4650898,12/17/2024,2.2,Night,Irish,Local,Seldom,233,Male,Thai
+56-0092303,3/31/2024,5,Afternoon,Snacks,Far,Seldom,234,Female,Thai
+87-2000392,03-01-2025,2.6,Morning,Snacks,Local,Seldom,235,Female,Alaska Native
+56-3314394,8/24/2024,3.6,Morning,Snacks,Near restaurant,Seldom,236,Female,Bolivian
+07-9869100,9/28/2024,3.4,Morning,Wine,Local,Seldom,237,Male,Colombian
+40-4291771,9/29/2024,2.6,Morning,Irish,Local,Tourist,238,Male,Shoshone
+81-0653552,10-06-2024,3.7,Morning,Wine,Near restaurant,Regular,239,Female,Latin American Indian
+95-7569119,6/28/2024,3.9,Night,Irish,Local,First-timer,240,Female,Blackfeet
+65-5699373,08-04-2024,1.6,Afternoon,Irish,Local,Seldom,241,Male,Dominican (Dominican Republic)
+56-8927154,08-03-2024,3.5,Night,Irish,Near restaurant,First-timer,242,Female,Central American
+69-4146871,10/13/2024,2.1,Afternoon,Irish,Near restaurant,First-timer,243,Female,Paraguayan
+47-0757075,1/23/2025,2,Night,Irish,Far,Tourist,244,Male,Yaqui
+01-6109060,7/17/2024,2.2,Afternoon,Continental,Far,Tourist,245,Female,Colombian
+12-1134720,10-09-2024,2.7,Night,Continental,Far,Regular,246,Female,Latin American Indian
+29-0241749,02-10-2025,3,Afternoon,Irish,Local,Regular,247,Male,Cree
+39-8413239,12/30/2024,2.2,Evening,Wine,Far,First-timer,248,Female,Panamanian
+75-6902066,12/24/2024,4.2,Afternoon,Wine,Far,Regular,249,Male,Ute
+06-0220942,03-02-2025,1.5,Evening,Irish,Near restaurant,Tourist,250,Female,Alaska Native
+12-6803791,4/29/2024,1.2,Night,Irish,Near restaurant,First-timer,251,Male,Guamanian
+24-2824288,09-11-2024,4.6,Morning,Irish,Near restaurant,First-timer,252,Female,Thai
+44-9893383,01-10-2025,3,Night,Continental,Far,Seldom,253,Female,Costa Rican
+40-3656161,05-07-2024,1.2,Morning,Irish,Far,Regular,254,Male,Native Hawaiian and Other Pacific Islander (NHPI)
+02-4047693,6/19/2024,2.3,Evening,Irish,Far,Regular,255,Female,Korean
+32-6870607,4/15/2024,1.7,Night,Irish,Local,Regular,256,Male,Indonesian
+09-7152175,12/21/2024,3.5,Night,Snacks,Local,Seldom,257,Female,Pima
+13-5628447,12/19/2024,4.1,Morning,Continental,Near restaurant,Tourist,258,Female,Central American
+16-1410499,1/13/2025,3.5,Afternoon,Continental,Far,First-timer,259,Female,Colville
+01-7874867,1/13/2025,1.8,Night,Wine,Near restaurant,Regular,260,Male,Thai
+54-6701731,03-11-2024,3.7,Afternoon,Irish,Far,Seldom,261,Female,Central American
+44-6339046,09-08-2024,3.5,Morning,Wine,Local,First-timer,262,Female,Creek
+19-6543963,9/23/2024,4.3,Morning,Continental,Local,Tourist,263,Male,Cambodian
+76-4037352,04-08-2024,2.7,Afternoon,Continental,Local,Seldom,264,Male,Panamanian
+55-4823527,10/20/2024,1.2,Morning,Irish,Local,Seldom,265,Male,Potawatomi
+75-2677591,09-11-2024,2.4,Night,Irish,Far,Regular,266,Male,Tlingit-Haida
+08-8492272,3/29/2024,2.6,Afternoon,Irish,Local,Tourist,267,Female,Thai
+33-0556293,12/20/2024,2,Morning,Continental,Local,Regular,268,Female,Ottawa
+02-5829528,6/14/2024,4,Afternoon,Snacks,Local,Regular,269,Male,Black or African American
+39-1635443,12/17/2024,4.7,Night,Wine,Far,Tourist,270,Male,Dominican (Dominican Republic)
+55-2115344,9/16/2024,2.3,Night,Wine,Near restaurant,Seldom,271,Male,Chilean
+15-0591716,9/13/2024,3.9,Evening,Irish,Local,Seldom,272,Male,Taiwanese
+19-5662243,7/14/2024,2.3,Night,Snacks,Far,First-timer,273,Female,American Indian
+29-9341130,09-02-2024,3.8,Morning,Irish,Far,Regular,274,Male,Blackfeet
+91-7810475,01-01-2025,3.4,Evening,Irish,Local,Tourist,275,Male,Polynesian
+71-9586271,5/31/2024,2.6,Afternoon,Snacks,Local,Seldom,276,Male,Salvadoran
+65-2739677,12/16/2024,4.2,Night,Irish,Local,Regular,277,Male,Thai
+39-1617144,12-07-2024,1.8,Morning,Snacks,Local,Tourist,278,Male,Bangladeshi
+47-5248123,05-11-2024,2.2,Morning,Wine,Near restaurant,Regular,279,Female,Bolivian
+03-8217785,7/13/2024,1.6,Afternoon,Irish,Local,Tourist,280,Male,Chippewa
+24-3431638,05-01-2024,1.3,Afternoon,Irish,Far,Tourist,281,Male,Chamorro
+90-7101888,03-07-2025,3.3,Evening,Snacks,Far,Regular,282,Male,Melanesian
+71-9497808,4/20/2024,2.7,Evening,Irish,Local,First-timer,283,Female,Potawatomi
+91-7270847,02-02-2025,1.9,Evening,Wine,Local,Regular,284,Female,Chilean
+40-5829817,11/23/2024,2.4,Night,Continental,Near restaurant,Tourist,285,Female,Sioux
+84-9296504,1/18/2025,2.8,Evening,Irish,Far,Regular,286,Female,Filipino
+68-8636893,09-02-2024,2.2,Morning,Wine,Far,First-timer,287,Male,Melanesian
+82-4213320,05-03-2024,1.3,Night,Continental,Far,Tourist,288,Female,Native Hawaiian
+50-8231532,02-07-2025,2.9,Afternoon,Irish,Far,Seldom,289,Female,Filipino
+01-5858913,1/21/2025,4.5,Night,Snacks,Far,First-timer,290,Female,Creek
+47-9650080,07-03-2024,3.7,Evening,Continental,Local,Seldom,291,Female,Korean
+54-9241652,03-08-2025,1.2,Night,Continental,Far,First-timer,292,Female,Alaska Native
+34-9867803,1/17/2025,1.6,Night,Continental,Far,First-timer,293,Female,Sri Lankan
+62-4241091,10/27/2024,2.7,Morning,Snacks,Near restaurant,First-timer,294,Male,Alaska Native
+92-2853172,5/14/2024,3.4,Evening,Continental,Far,Tourist,295,Male,Bangladeshi
+08-3746003,4/21/2024,1.7,Evening,Continental,Local,Regular,296,Female,Bangladeshi
+65-2398457,1/21/2025,2.2,Afternoon,Irish,Local,Regular,297,Female,American Indian and Alaska Native (AIAN)
+48-3985674,4/25/2024,3.7,Evening,Continental,Near restaurant,Tourist,298,Male,Chickasaw
+33-3362154,1/26/2025,4.6,Night,Snacks,Far,Regular,299,Female,Hmong
+76-7861643,01-10-2025,1.5,Afternoon,Snacks,Far,Tourist,300,Male,South American
+95-5704957,12/24/2024,2.6,Night,Irish,Far,Seldom,301,Female,Chamorro
+84-5661859,07-10-2024,4.9,Evening,Snacks,Near restaurant,Regular,302,Male,Chinese
+99-4598796,4/16/2024,2,Evening,Continental,Near restaurant,Tourist,303,Male,Filipino
+61-4025542,1/17/2025,1.7,Night,Snacks,Far,First-timer,304,Male,Kiowa
+49-6726098,07-09-2024,2.6,Morning,Snacks,Near restaurant,First-timer,305,Male,Indonesian
+42-5395750,02-04-2025,1.7,Night,Irish,Local,First-timer,306,Female,Vietnamese
+30-9435179,3/21/2024,1.1,Afternoon,Wine,Local,Seldom,307,Female,Tongan
+25-6340591,12-03-2024,3,Night,Snacks,Near restaurant,Regular,308,Female,Chamorro
+67-2660863,01-03-2025,4.9,Afternoon,Wine,Near restaurant,Seldom,309,Male,Alaskan Athabascan
+70-9157095,05-01-2024,1.2,Night,Snacks,Near restaurant,Seldom,310,Female,Tohono O'Odham
+27-6279941,05-02-2024,1.2,Afternoon,Wine,Far,First-timer,311,Male,Lumbee
+22-6540529,11/15/2024,1.8,Morning,Wine,Far,Regular,312,Male,American Indian and Alaska Native (AIAN)
+91-5202734,2/15/2025,3.6,Evening,Snacks,Far,Regular,313,Female,Native Hawaiian and Other Pacific Islander (NHPI)
+42-6589642,1/17/2025,1.1,Night,Wine,Near restaurant,Seldom,314,Female,Bolivian
+96-6403412,2/13/2025,4.9,Evening,Wine,Near restaurant,Tourist,315,Female,Polynesian
+85-5537654,1/30/2025,3.1,Evening,Continental,Local,Tourist,316,Female,Taiwanese
+38-5872576,6/30/2024,2.3,Morning,Wine,Local,Regular,317,Female,Kiowa
+87-4358628,3/14/2024,3.6,Evening,Snacks,Local,Tourist,318,Male,Ute
+86-2669796,11-01-2024,1.1,Evening,Irish,Near restaurant,Seldom,319,Female,Malaysian
+59-6891830,11/28/2024,2.4,Morning,Wine,Local,Seldom,320,Female,Ottawa
+93-4041779,08-03-2024,2.5,Evening,Snacks,Far,Tourist,321,Male,Navajo
+85-2960870,10-06-2024,3,Night,Continental,Near restaurant,First-timer,322,Male,Chinese
+61-4567002,6/29/2024,2.7,Afternoon,Continental,Far,First-timer,323,Male,Iroquois
+92-7210023,3/16/2024,2.8,Afternoon,Irish,Near restaurant,First-timer,324,Male,Taiwanese
+12-9670922,07-07-2024,1.8,Night,Snacks,Near restaurant,Seldom,325,Female,Osage
+83-4339259,12/17/2024,1.7,Afternoon,Wine,Far,Regular,326,Male,Native Hawaiian
+82-9077278,11-05-2024,1.7,Morning,Continental,Local,Seldom,327,Male,Sioux
+86-2834785,8/24/2024,2,Night,Wine,Local,Tourist,328,Female,South American
+07-7552146,02-02-2025,2.8,Afternoon,Snacks,Far,First-timer,329,Male,Menominee
+56-4491210,4/25/2024,4,Evening,Irish,Local,Seldom,330,Male,Sri Lankan
+96-4037771,11/15/2024,3.8,Afternoon,Irish,Far,Seldom,331,Female,Tongan
+66-0941023,10-06-2024,1.6,Evening,Continental,Local,Regular,332,Female,Native Hawaiian and Other Pacific Islander (NHPI)
+92-6819912,11-06-2024,2.2,Morning,Continental,Local,Seldom,333,Male,Peruvian
+09-3509542,11/14/2024,3.5,Evening,Irish,Near restaurant,Seldom,334,Male,Potawatomi
+21-7082147,10-07-2024,2.4,Afternoon,Wine,Far,Seldom,335,Female,Chinese
+24-8657851,08-10-2024,4.9,Night,Wine,Near restaurant,Seldom,336,Male,Eskimo
+05-2556227,9/13/2024,1.4,Afternoon,Irish,Local,Tourist,337,Male,Black or African American
+46-7284913,11/28/2024,1.6,Evening,Continental,Local,Seldom,338,Male,Taiwanese
+19-3818045,9/18/2024,1.5,Afternoon,Irish,Far,Seldom,339,Male,White
+51-5914207,08-10-2024,3.9,Afternoon,Snacks,Local,Tourist,340,Male,Colville
+07-9140313,12-02-2024,4.8,Evening,Wine,Near restaurant,Seldom,341,Female,Black or African American
+58-1593393,06-12-2024,2.4,Afternoon,Continental,Far,First-timer,342,Female,Salvadoran
+87-8674921,12/16/2024,3.6,Morning,Irish,Far,Regular,343,Male,Guatemalan
+13-2308455,03-08-2025,4.6,Afternoon,Wine,Far,Regular,344,Male,Blackfeet
+35-2621612,8/20/2024,3.2,Afternoon,Irish,Far,Regular,345,Female,Ottawa
+02-6308180,3/31/2024,2.7,Morning,Snacks,Far,First-timer,346,Female,Houma
+72-2169158,4/22/2024,2.3,Morning,Irish,Near restaurant,First-timer,347,Female,Korean
+09-4687638,7/30/2024,2.4,Night,Irish,Local,First-timer,348,Male,Ute
+62-7355267,3/20/2024,1.7,Evening,Irish,Near restaurant,Regular,349,Female,Pima
+31-4351124,9/27/2024,2.9,Morning,Irish,Local,Tourist,350,Male,Crow
+16-9048810,12/19/2024,2.9,Evening,Wine,Local,First-timer,351,Male,Colville
+72-3381652,10/13/2024,5,Morning,Wine,Far,First-timer,352,Male,Puget Sound Salish
+34-2343165,4/28/2024,1.3,Morning,Wine,Near restaurant,Regular,353,Female,Potawatomi
+05-5861952,11/13/2024,3.9,Afternoon,Wine,Far,Regular,354,Male,Shoshone
+04-0547986,1/31/2025,2.1,Night,Continental,Near restaurant,Seldom,355,Female,Guamanian
+66-4666865,10-05-2024,4.4,Night,Wine,Local,Tourist,356,Female,Guamanian
+48-6862216,1/25/2025,3.8,Morning,Continental,Far,Seldom,357,Female,Ottawa
+20-3023131,05-12-2024,1.6,Evening,Continental,Near restaurant,First-timer,358,Female,Alaskan Athabascan
+08-7552305,05-05-2024,2.4,Morning,Irish,Near restaurant,Regular,359,Female,Chippewa
+97-3384046,1/31/2025,1.8,Evening,Wine,Local,Tourist,360,Female,Laotian
+89-4151271,01-12-2025,3.8,Afternoon,Snacks,Local,Seldom,361,Female,Blackfeet
+91-5980889,8/15/2024,1.8,Evening,Continental,Near restaurant,Tourist,362,Female,South American
+03-6516638,11/19/2024,3,Evening,Wine,Far,Regular,363,Female,Japanese
+67-5011979,5/22/2024,4.2,Night,Irish,Far,First-timer,364,Female,Kiowa
+46-2269264,9/19/2024,4.3,Morning,Snacks,Far,Tourist,365,Female,Cree
+69-4250182,07-01-2024,2.6,Morning,Irish,Far,Tourist,366,Female,Chinese
+60-2801595,7/29/2024,3.1,Evening,Wine,Local,First-timer,367,Female,Sri Lankan
+18-2832962,11-07-2024,3.3,Evening,Continental,Local,First-timer,368,Female,Puget Sound Salish
+47-7621793,1/31/2025,1.3,Afternoon,Wine,Far,Tourist,369,Male,Potawatomi
+07-6952616,4/16/2024,3.2,Afternoon,Continental,Far,Seldom,370,Male,Paiute
+84-3067451,9/30/2024,3.9,Morning,Snacks,Near restaurant,Seldom,371,Female,South American
+20-0011715,09-11-2024,2.6,Morning,Snacks,Local,Regular,372,Male,Sioux
+78-1002436,8/28/2024,1.3,Night,Wine,Far,Regular,373,Female,Hmong
+53-0518578,6/15/2024,2.4,Evening,Continental,Local,First-timer,374,Male,Cree
+81-0914203,3/25/2024,1.2,Morning,Irish,Local,Tourist,375,Female,Shoshone
+15-2893569,06-06-2024,4.9,Evening,Continental,Near restaurant,Seldom,376,Female,Tlingit-Haida
+62-3035012,8/18/2024,1.4,Afternoon,Continental,Far,Regular,377,Female,Potawatomi
+66-9686961,4/15/2024,4.4,Night,Wine,Local,Regular,378,Female,Sri Lankan
+47-3346721,9/15/2024,1,Afternoon,Irish,Local,Tourist,379,Female,Aleut
+48-5414469,8/17/2024,4.2,Night,Continental,Far,Seldom,380,Male,Colville
+21-7882063,06-11-2024,3,Evening,Continental,Near restaurant,Seldom,381,Male,Colombian
+42-0173786,7/26/2024,2.9,Afternoon,Wine,Local,Seldom,382,Male,Polynesian
+98-6142557,02-09-2025,4.6,Night,Irish,Local,Seldom,383,Male,Navajo
+94-6700426,11-01-2024,4.5,Afternoon,Wine,Far,First-timer,384,Female,Laotian
+44-5591610,07-01-2024,1.2,Morning,Continental,Far,Regular,385,Female,Taiwanese
+15-8193763,05-05-2024,4,Afternoon,Wine,Local,First-timer,386,Male,Japanese
+05-4879672,12-02-2024,1.3,Night,Irish,Near restaurant,Tourist,387,Female,Navajo
+09-7817663,1/13/2025,1.8,Morning,Wine,Far,Regular,388,Male,Asian
+41-9029519,05-08-2024,2.5,Morning,Continental,Local,Seldom,389,Male,Chinese
+07-8205024,11-01-2024,2.4,Night,Irish,Near restaurant,Tourist,390,Female,Black or African American
+58-9727643,1/23/2025,1.8,Evening,Wine,Local,Seldom,391,Female,Yuman
+15-0937736,12-12-2024,4.4,Morning,Snacks,Far,Regular,392,Female,Black or African American
+09-3675704,05-02-2024,4.9,Evening,Snacks,Local,Tourist,393,Male,Cherokee
+51-0304765,12/19/2024,3.3,Evening,Snacks,Near restaurant,First-timer,394,Female,Navajo
+19-6331663,3/24/2024,1.1,Night,Snacks,Local,Seldom,395,Female,Hmong
+02-1518489,3/13/2024,3.2,Morning,Snacks,Local,Regular,396,Male,Crow
+30-6205517,2/17/2025,2.5,Afternoon,Snacks,Local,First-timer,397,Female,Creek
+53-0385083,1/24/2025,1.8,Afternoon,Wine,Far,First-timer,398,Female,Apache
+19-5623416,12-06-2024,4.6,Night,Snacks,Far,Regular,399,Female,Colville
+97-7461751,1/31/2025,2.6,Night,Continental,Local,Regular,400,Female,Asian Indian
+03-1628962,09-12-2024,2.2,Evening,Irish,Far,Tourist,401,Male,Cambodian
+29-1920677,03-09-2025,2.7,Evening,Continental,Far,First-timer,402,Male,Lumbee
+87-1091020,8/26/2024,4.2,Morning,Irish,Far,Seldom,403,Male,Bangladeshi
+27-5142824,1/27/2025,2.4,Evening,Irish,Far,Tourist,404,Male,Yaqui
+08-9485374,09-04-2024,4.4,Night,Continental,Far,Regular,405,Male,Uruguayan
+64-4590371,4/28/2024,4.3,Morning,Continental,Near restaurant,Regular,406,Female,Bolivian
+68-4497927,5/18/2024,4.6,Evening,Wine,Near restaurant,Regular,407,Male,Comanche
+61-0355693,6/16/2024,4.5,Morning,Wine,Far,First-timer,408,Male,Kiowa
+77-0043837,12/17/2024,3.2,Morning,Continental,Far,Tourist,409,Male,Ute
+30-1017131,05-07-2024,1.2,Night,Continental,Near restaurant,Regular,410,Male,Paiute
+58-7263706,11-11-2024,2.1,Morning,Wine,Far,First-timer,411,Female,Yuman
+85-5621283,04-03-2024,1.8,Morning,Continental,Local,Seldom,412,Female,Aleut
+94-7101633,1/29/2025,3.1,Night,Irish,Far,Regular,413,Male,Japanese
+77-1772917,9/20/2024,1.4,Morning,Continental,Local,Tourist,414,Male,Spaniard
+99-0228337,07-07-2024,2,Evening,Snacks,Near restaurant,Regular,415,Male,Cuban
+28-0922881,02-04-2025,3.5,Evening,Snacks,Local,Regular,416,Male,Salvadoran
+69-2813280,06-01-2024,1.2,Morning,Snacks,Local,Regular,417,Male,Yaqui
+36-1015604,10-04-2024,1.1,Night,Wine,Near restaurant,Seldom,418,Female,Dominican (Dominican Republic)
+95-4473353,05-01-2024,4.3,Morning,Wine,Local,Seldom,419,Male,Native Hawaiian
+27-2842731,01-01-2025,2.1,Afternoon,Wine,Far,First-timer,420,Female,Osage
+83-4129576,3/29/2024,1.2,Evening,Wine,Near restaurant,Tourist,421,Female,Dominican (Dominican Republic)
+33-9204590,2/22/2025,1.1,Night,Irish,Near restaurant,Regular,422,Male,Tongan
+84-1543955,02-04-2025,3,Night,Snacks,Local,First-timer,423,Male,Paraguayan
+03-5644716,05-06-2024,2.1,Morning,Wine,Local,Regular,424,Male,Choctaw
+96-3974497,1/19/2025,4,Afternoon,Wine,Far,Seldom,425,Male,Cambodian
+68-9787000,07-09-2024,2.1,Evening,Snacks,Near restaurant,Tourist,426,Female,American Indian and Alaska Native (AIAN)
+48-9881148,5/26/2024,2.3,Night,Snacks,Far,Seldom,427,Male,Shoshone
+02-1834074,8/28/2024,3.8,Night,Snacks,Near restaurant,Tourist,428,Female,Comanche
+61-2214845,7/19/2024,2.4,Night,Snacks,Far,Tourist,429,Female,Yuman
+23-1076494,11-09-2024,3.1,Morning,Irish,Near restaurant,First-timer,430,Female,Iroquois
+06-2687491,05-01-2024,2.8,Morning,Wine,Near restaurant,Regular,431,Female,Alaska Native
+67-7704042,1/26/2025,1.1,Morning,Irish,Near restaurant,Regular,432,Male,Ottawa
+35-8655439,06-07-2024,1.1,Evening,Snacks,Far,Regular,433,Female,Chinese
+68-3798256,8/23/2024,4,Morning,Continental,Near restaurant,Tourist,434,Male,Tohono O'Odham
+14-4314257,02-05-2025,3.2,Afternoon,Irish,Far,Regular,435,Female,Chippewa
+83-3131089,01-03-2025,4,Evening,Snacks,Local,Tourist,436,Female,Pueblo
+30-4210929,1/15/2025,2.1,Afternoon,Snacks,Near restaurant,Regular,437,Male,Chippewa
+99-0883958,1/26/2025,5,Morning,Irish,Far,First-timer,438,Female,Seminole
+72-3674553,8/31/2024,4.5,Morning,Wine,Local,Seldom,439,Female,Seminole
+01-6462264,11-05-2024,1.7,Night,Snacks,Local,Regular,440,Male,Panamanian
+60-2039651,07-10-2024,2.5,Morning,Irish,Far,Regular,441,Female,Seminole
+88-4377021,5/18/2024,4.6,Morning,Irish,Far,Tourist,442,Female,Ute
+20-1989193,05-02-2024,1.3,Evening,Irish,Far,Regular,443,Female,Samoan
+34-7582890,02-12-2025,4,Afternoon,Snacks,Far,First-timer,444,Female,Latin American Indian
+93-5121832,6/20/2024,4.6,Morning,Continental,Near restaurant,First-timer,445,Male,Tongan
+74-8937806,4/14/2024,2.5,Evening,Irish,Local,Tourist,446,Female,Salvadoran
+08-8980788,5/25/2024,1.9,Night,Wine,Near restaurant,Seldom,447,Male,Tongan
+46-2834348,03-06-2025,1.8,Night,Continental,Local,Seldom,448,Male,Costa Rican
+69-3534249,9/20/2024,4.6,Morning,Irish,Far,Seldom,449,Male,Chinese
+27-2953613,4/30/2024,2.5,Evening,Snacks,Far,First-timer,450,Female,Seminole
+89-1528494,7/13/2024,3.8,Morning,Wine,Far,Regular,451,Female,Eskimo
+05-9084653,11-11-2024,1.2,Evening,Wine,Local,Regular,452,Male,White
+32-2332812,04-01-2024,4.8,Night,Snacks,Near restaurant,First-timer,453,Female,Venezuelan
+91-1128323,05-02-2024,4.1,Night,Continental,Near restaurant,Regular,454,Male,Bolivian
+86-5309208,8/13/2024,1.3,Evening,Continental,Far,Regular,455,Female,Malaysian
+57-5692031,10/30/2024,2.7,Night,Wine,Near restaurant,Tourist,456,Female,Asian
+24-5793563,12-12-2024,4.2,Morning,Wine,Local,First-timer,457,Female,Taiwanese
+21-0207533,08-06-2024,2.6,Morning,Continental,Local,Seldom,458,Male,Bangladeshi
+05-4998595,4/19/2024,4.5,Evening,Wine,Near restaurant,First-timer,459,Male,Sri Lankan
+83-0318050,12/22/2024,3.6,Afternoon,Irish,Far,Tourist,460,Male,Latin American Indian
+73-8336736,7/16/2024,3.8,Night,Snacks,Local,Tourist,461,Female,Chippewa
+85-4560808,1/28/2025,3.1,Evening,Irish,Near restaurant,First-timer,462,Male,Aleut
+87-6258664,1/20/2025,1.4,Night,Irish,Far,Seldom,463,Male,Indonesian
+51-0649032,4/25/2024,3.5,Morning,Snacks,Near restaurant,Seldom,464,Male,American Indian
+13-6373913,6/15/2024,2.9,Morning,Irish,Near restaurant,First-timer,465,Female,Venezuelan
+03-5770200,01-03-2025,2.5,Evening,Irish,Far,Regular,466,Female,Cheyenne
+73-6951883,7/25/2024,3.4,Afternoon,Irish,Near restaurant,Tourist,467,Male,Delaware
+07-4057771,9/21/2024,3.6,Evening,Continental,Far,Regular,468,Female,Delaware
+94-5342388,03-11-2024,3.3,Morning,Snacks,Local,First-timer,469,Male,Paraguayan
+35-0685272,02-04-2025,2.1,Morning,Snacks,Local,Seldom,470,Male,Ecuadorian
+20-0582609,05-10-2024,3.5,Night,Continental,Far,Tourist,471,Male,Delaware
+34-3066999,12/24/2024,4.1,Evening,Continental,Far,First-timer,472,Male,Colville
+70-1481480,01-10-2025,1.6,Morning,Irish,Local,Tourist,473,Female,Apache
+45-3352871,5/19/2024,3.7,Evening,Snacks,Near restaurant,Seldom,474,Female,Taiwanese
+57-5096677,9/22/2024,3.9,Night,Irish,Near restaurant,First-timer,475,Female,Nicaraguan
+36-9915515,12/25/2024,2.3,Morning,Snacks,Far,Regular,476,Male,Navajo
+27-2055870,12/17/2024,4.2,Evening,Continental,Local,Seldom,477,Female,Navajo
+72-5528442,12/26/2024,3.7,Afternoon,Wine,Near restaurant,First-timer,478,Male,Comanche
+86-1576105,01-11-2025,1.4,Night,Snacks,Near restaurant,Tourist,479,Female,Native Hawaiian
+01-7294643,02-09-2025,3.9,Afternoon,Wine,Near restaurant,Seldom,480,Female,Polynesian
+03-7567038,04-05-2024,3.6,Afternoon,Snacks,Local,Tourist,481,Male,Cambodian
+34-3353367,06-09-2024,2.6,Night,Continental,Near restaurant,Seldom,482,Female,Puget Sound Salish
+27-2869059,06-03-2024,2.9,Night,Irish,Local,Seldom,483,Female,Japanese
+00-4732889,5/14/2024,4.5,Evening,Irish,Local,Seldom,484,Female,Salvadoran
+06-6728471,11/15/2024,4.4,Afternoon,Snacks,Far,First-timer,485,Female,Kiowa
+85-7937326,8/16/2024,1.8,Afternoon,Irish,Far,Tourist,486,Male,Japanese
+81-7363735,8/17/2024,3,Evening,Wine,Local,First-timer,487,Female,Hmong
+88-5919313,03-04-2025,2.3,Evening,Snacks,Local,Seldom,488,Male,Asian Indian
+94-3934201,10-04-2024,1.6,Night,Irish,Local,Tourist,489,Male,Chickasaw
+66-2771502,12/18/2024,2.4,Night,Snacks,Near restaurant,Seldom,490,Female,Shoshone
+36-2037748,4/13/2024,4.4,Afternoon,Wine,Near restaurant,Seldom,491,Female,Melanesian
+04-0237246,10-10-2024,4.1,Morning,Snacks,Far,Seldom,492,Female,Vietnamese
+15-7150138,06-04-2024,2.7,Morning,Snacks,Near restaurant,First-timer,493,Female,Blackfeet
+16-1278820,4/30/2024,2.4,Afternoon,Snacks,Local,First-timer,494,Male,Navajo
+69-6213680,10/24/2024,3,Afternoon,Wine,Near restaurant,First-timer,495,Male,Puget Sound Salish
+30-0898647,9/18/2024,3.5,Night,Wine,Far,Regular,496,Male,Creek
+93-5681567,11-07-2024,2.9,Afternoon,Snacks,Far,Tourist,497,Female,Choctaw
+45-6426995,06-03-2024,3.7,Afternoon,Snacks,Far,Regular,498,Male,Kiowa
+16-1817283,08-03-2024,4.3,Morning,Continental,Far,First-timer,499,Male,Chilean
+09-0892787,10/27/2024,4.6,Night,Irish,Local,First-timer,500,Male,Guamanian
+51-9720775,8/30/2024,1.1,Evening,Snacks,Local,Seldom,501,Male,Central American
+47-4215337,6/17/2024,2.4,Night,Irish,Near restaurant,Seldom,502,Female,Costa Rican
+72-8383344,8/15/2024,2.2,Afternoon,Irish,Far,Tourist,503,Male,Colombian
+55-9486205,08-11-2024,4.3,Afternoon,Continental,Far,Regular,504,Male,Cherokee
+40-2584826,1/17/2025,1.5,Afternoon,Snacks,Far,Tourist,505,Male,Puget Sound Salish
+14-9342260,12-01-2024,1.7,Evening,Continental,Near restaurant,Seldom,506,Male,White
+09-0589783,6/26/2024,3.9,Afternoon,Irish,Near restaurant,Regular,507,Male,Sioux
+54-4827791,07-07-2024,3.2,Night,Continental,Near restaurant,First-timer,508,Female,Japanese
+45-6053812,07-11-2024,3.6,Evening,Wine,Local,Tourist,509,Male,Salvadoran
+04-8280212,4/15/2024,2.1,Evening,Irish,Near restaurant,Regular,510,Male,Filipino
+44-0616754,01-03-2025,1.6,Morning,Continental,Local,Regular,511,Female,Comanche
+52-5181505,11-10-2024,3,Afternoon,Wine,Near restaurant,Tourist,512,Female,Tlingit-Haida
+48-4661490,9/13/2024,2.6,Morning,Irish,Local,Seldom,513,Male,Menominee
+74-9955699,08-01-2024,1.1,Afternoon,Snacks,Far,Tourist,514,Male,Seminole
+80-4163728,7/24/2024,1.8,Night,Irish,Local,Regular,515,Female,Filipino
+45-8601126,11-03-2024,1.2,Evening,Irish,Near restaurant,Regular,516,Male,Vietnamese
+50-9544221,02-02-2025,2,Morning,Continental,Far,First-timer,517,Male,Ute
+83-5922962,8/15/2024,1.3,Morning,Snacks,Local,Seldom,518,Female,Cheyenne
+10-6307151,9/23/2024,4.2,Night,Continental,Local,Seldom,519,Male,Iroquois
+85-8646269,4/17/2024,2.6,Night,Continental,Far,Regular,520,Female,South American
+03-2013688,02-02-2025,3.6,Night,Snacks,Far,Tourist,521,Female,Puerto Rican
+52-9985131,6/28/2024,2.4,Night,Wine,Local,Regular,522,Male,Sioux
+44-9199171,1/19/2025,4.6,Afternoon,Continental,Local,Tourist,523,Female,American Indian
+49-3440826,5/29/2024,2.3,Afternoon,Wine,Local,Seldom,524,Female,Fijian
+98-4720302,9/22/2024,3,Afternoon,Irish,Local,First-timer,525,Female,South American
+60-5735173,05-05-2024,3.4,Night,Continental,Far,Tourist,526,Female,Yakama
+48-4863090,12/23/2024,3.7,Afternoon,Snacks,Local,Tourist,527,Female,Japanese
+89-8291521,01-08-2025,2.4,Afternoon,Continental,Near restaurant,Seldom,528,Female,Chickasaw
+37-9467227,10-08-2024,2.6,Evening,Snacks,Local,Tourist,529,Male,Spaniard
+15-8090299,12/23/2024,2.5,Evening,Continental,Near restaurant,Seldom,530,Male,Cambodian
+97-8282818,2/24/2025,2.1,Afternoon,Wine,Far,Seldom,531,Female,Tongan
+06-6597387,8/24/2024,3.7,Morning,Irish,Far,Regular,532,Female,Hmong
+97-8416751,11/13/2024,1.8,Night,Continental,Near restaurant,Tourist,533,Male,Kiowa
+12-7770525,12/24/2024,3.3,Morning,Wine,Near restaurant,Regular,534,Male,Aleut
+34-3943091,06-10-2024,1.1,Afternoon,Irish,Near restaurant,Tourist,535,Female,Lumbee
+08-6996568,10/29/2024,2.8,Night,Snacks,Near restaurant,First-timer,536,Male,Samoan
+30-1554254,7/21/2024,4.7,Morning,Continental,Far,First-timer,537,Male,Ottawa
+80-3622082,05-05-2024,5,Evening,Irish,Far,Tourist,538,Female,Paiute
+06-6343544,4/28/2024,4.8,Morning,Snacks,Near restaurant,First-timer,539,Female,Chippewa
+08-0709869,2/26/2025,2.8,Night,Irish,Local,Regular,540,Female,Malaysian
+75-3332931,03-05-2025,4.2,Morning,Wine,Near restaurant,Regular,541,Female,Asian Indian
+95-5153614,7/17/2024,1.6,Morning,Continental,Near restaurant,Tourist,542,Male,Yakama
+70-2544277,2/28/2025,2.3,Night,Irish,Far,Regular,543,Male,Melanesian
+48-7998574,02-09-2025,4.2,Evening,Irish,Near restaurant,Regular,544,Female,Latin American Indian
+21-7039283,07-04-2024,1.6,Afternoon,Continental,Near restaurant,First-timer,545,Female,Sioux
+28-4544106,12/22/2024,4.8,Evening,Irish,Local,First-timer,546,Male,Paraguayan
+99-8398650,1/27/2025,2.5,Afternoon,Wine,Far,Seldom,547,Male,Laotian
+43-6195259,11-09-2024,3.9,Evening,Wine,Local,Tourist,548,Male,American Indian and Alaska Native (AIAN)
+60-6295541,6/24/2024,4.8,Morning,Snacks,Local,Seldom,549,Male,Cuban
+66-6494463,9/25/2024,4.7,Afternoon,Continental,Local,Seldom,550,Male,Asian Indian
+15-4568206,03-10-2025,4.8,Evening,Irish,Far,Seldom,551,Female,Latin American Indian
+36-8109761,10-07-2024,1,Afternoon,Wine,Local,First-timer,552,Male,Fijian
+05-3955976,06-01-2024,4.7,Morning,Continental,Far,Seldom,553,Female,Puerto Rican
+34-1217271,12-12-2024,1.4,Night,Snacks,Local,Tourist,554,Male,Houma
+52-2857370,06-03-2024,4.6,Afternoon,Snacks,Near restaurant,Tourist,555,Female,Tohono O'Odham
+64-1793946,9/15/2024,1.8,Afternoon,Irish,Local,First-timer,556,Male,Tongan
+63-7882664,1/17/2025,2.4,Morning,Snacks,Far,Tourist,557,Male,Sioux
+08-8221915,3/25/2024,4.1,Evening,Wine,Near restaurant,Regular,558,Female,Honduran
+65-5445641,8/23/2024,2.3,Afternoon,Snacks,Local,Seldom,559,Male,Laotian
+03-4425282,7/13/2024,2.2,Afternoon,Wine,Near restaurant,Seldom,560,Male,Cheyenne
+56-0535288,1/22/2025,4.1,Night,Continental,Local,Tourist,561,Male,Japanese
+74-9738496,2/24/2025,3.1,Night,Continental,Local,Regular,562,Male,Yuman
+40-1739569,4/18/2024,4.7,Evening,Wine,Far,Seldom,563,Female,Creek
+33-4497290,07-04-2024,4.1,Afternoon,Irish,Local,Seldom,564,Male,Ottawa
+55-8487283,10-02-2024,4.7,Morning,Snacks,Near restaurant,Tourist,565,Female,Colombian
+30-2564579,04-12-2024,4.4,Morning,Snacks,Far,First-timer,566,Male,Costa Rican
+97-2217514,03-09-2025,3.2,Afternoon,Irish,Local,Tourist,567,Male,Alaska Native
+86-8844481,5/20/2024,3.2,Afternoon,Irish,Far,Seldom,568,Male,Panamanian
+39-9408374,9/25/2024,4.6,Morning,Continental,Near restaurant,Regular,569,Female,Salvadoran
+41-6750315,01-11-2025,1.7,Night,Snacks,Far,Seldom,570,Male,Central American
+37-1455552,11/13/2024,4.4,Night,Wine,Far,First-timer,571,Male,Yaqui
+04-6636291,6/23/2024,1.8,Night,Snacks,Far,Seldom,572,Female,American Indian and Alaska Native (AIAN)
+55-1449529,04-03-2024,1.3,Afternoon,Wine,Local,Seldom,573,Male,Cree
+75-0253358,09-05-2024,3.1,Afternoon,Wine,Far,Tourist,574,Male,Latin American Indian
+02-3702733,11/26/2024,2.5,Morning,Snacks,Far,Regular,575,Female,Latin American Indian
+19-9331836,12/20/2024,3.8,Afternoon,Snacks,Near restaurant,First-timer,576,Male,Pueblo
+50-4128720,08-10-2024,4,Night,Snacks,Far,Seldom,577,Female,Paraguayan
+01-4676670,6/16/2024,2,Morning,Continental,Near restaurant,Seldom,578,Female,Iroquois
+79-0867641,5/18/2024,1.2,Night,Wine,Near restaurant,First-timer,579,Female,Cherokee
+06-5944789,02-01-2025,4.2,Night,Continental,Far,Regular,580,Female,Seminole
+53-2809770,08-03-2024,3.6,Afternoon,Continental,Local,Regular,581,Male,Yaqui
+10-9455571,10-08-2024,3.2,Night,Continental,Near restaurant,First-timer,582,Male,Paraguayan
+95-4727840,01-12-2025,2.6,Morning,Continental,Local,First-timer,583,Female,Thai
+06-8780999,09-09-2024,4.3,Morning,Continental,Far,Seldom,584,Female,American Indian
+95-3103734,9/13/2024,3.1,Morning,Wine,Far,First-timer,585,Male,Paraguayan
+69-1146873,3/14/2024,3,Afternoon,Wine,Local,First-timer,586,Female,Iroquois
+24-5567358,6/25/2024,1.8,Evening,Irish,Far,First-timer,587,Female,Houma
+03-1016290,09-04-2024,3.9,Morning,Wine,Far,Seldom,588,Female,Tlingit-Haida
+37-7934740,05-07-2024,4,Night,Continental,Near restaurant,First-timer,589,Male,Bolivian
+89-8301373,07-02-2024,4.6,Evening,Irish,Local,Tourist,590,Female,Fijian
+00-8372331,5/15/2024,1.8,Evening,Snacks,Near restaurant,Tourist,591,Male,Nicaraguan
+52-0023838,02-05-2025,4.6,Night,Irish,Near restaurant,First-timer,592,Male,White
+17-9751278,10-06-2024,2,Afternoon,Continental,Far,Regular,593,Male,Tohono O'Odham
+18-0765342,8/24/2024,3.4,Afternoon,Irish,Far,Tourist,594,Male,Hmong
+71-1802113,12-03-2024,4.5,Evening,Irish,Far,Regular,595,Male,Central American
+20-8557071,3/27/2024,1.1,Afternoon,Snacks,Near restaurant,First-timer,596,Female,Spaniard
+80-2163766,04-07-2024,1.4,Evening,Continental,Local,Regular,597,Female,Cambodian
+15-3093759,03-03-2025,1.3,Morning,Continental,Local,Tourist,598,Female,Lumbee
+21-9057196,2/15/2025,1.5,Afternoon,Continental,Far,First-timer,599,Male,Costa Rican
+84-3518528,4/29/2024,3,Morning,Wine,Far,Seldom,600,Male,Asian
+15-7416078,04-12-2024,2.3,Night,Irish,Near restaurant,Seldom,601,Male,Cambodian
+13-2211398,7/15/2024,3.3,Afternoon,Snacks,Near restaurant,Seldom,602,Female,Asian
+28-1672619,3/25/2024,1.2,Afternoon,Snacks,Near restaurant,First-timer,603,Male,Yaqui
+73-2410668,8/15/2024,1.8,Morning,Snacks,Far,Regular,604,Male,White
+40-0206344,11/20/2024,4.8,Morning,Irish,Near restaurant,Seldom,605,Male,Sioux
+19-6725504,7/19/2024,2.5,Evening,Irish,Near restaurant,First-timer,606,Male,Paraguayan
+61-8411790,04-04-2024,2.8,Morning,Continental,Far,Seldom,607,Female,Hmong
+40-6762709,12/29/2024,4.1,Afternoon,Wine,Local,Regular,608,Male,Alaska Native
+16-2949846,12-02-2024,1.4,Evening,Snacks,Far,Regular,609,Female,Malaysian
+71-1772841,06-11-2024,3.6,Afternoon,Irish,Local,First-timer,610,Male,Creek
+04-0044505,6/27/2024,1.4,Evening,Irish,Near restaurant,Seldom,611,Female,Yaqui
+47-1381209,8/22/2024,4.7,Morning,Snacks,Near restaurant,Tourist,612,Female,Cheyenne
+24-3138738,12/29/2024,1.7,Morning,Wine,Local,Seldom,613,Male,Yakama
+50-7687307,12/31/2024,2.6,Night,Snacks,Near restaurant,Regular,614,Male,Blackfeet
+97-3981000,2/26/2025,3.2,Afternoon,Snacks,Local,First-timer,615,Male,American Indian and Alaska Native (AIAN)
+75-7083196,07-10-2024,1.6,Afternoon,Irish,Near restaurant,First-timer,616,Male,Bolivian
+95-2981822,5/24/2024,2.5,Afternoon,Irish,Near restaurant,First-timer,617,Male,Japanese
+64-7945725,1/24/2025,5,Night,Continental,Near restaurant,Regular,618,Male,Laotian
+07-5739828,12/17/2024,2,Night,Continental,Far,Regular,619,Male,Salvadoran
+93-3566567,11-06-2024,1.1,Evening,Snacks,Near restaurant,Tourist,620,Female,Guatemalan
+17-0186962,4/16/2024,1.1,Night,Irish,Local,First-timer,621,Female,Dominican (Dominican Republic)
+55-7919411,11/14/2024,4.9,Afternoon,Snacks,Local,First-timer,622,Male,Pueblo
+63-3908035,12/21/2024,1.1,Afternoon,Irish,Far,First-timer,623,Male,Puget Sound Salish
+61-9363018,6/28/2024,2.8,Morning,Continental,Local,Seldom,624,Male,Tongan
+71-4065379,05-12-2024,2.5,Afternoon,Snacks,Far,Regular,625,Female,Costa Rican
+29-6255677,8/13/2024,1.2,Morning,Wine,Local,First-timer,626,Female,Black or African American
+71-5407841,9/18/2024,1.2,Afternoon,Wine,Far,First-timer,627,Male,Peruvian
+22-6997525,12/18/2024,1.9,Evening,Wine,Near restaurant,Tourist,628,Male,Dominican (Dominican Republic)
+76-1513702,3/23/2024,4.3,Night,Continental,Local,First-timer,629,Male,Salvadoran
+59-0318800,5/30/2024,1.2,Afternoon,Wine,Far,Regular,630,Female,Tlingit-Haida
+67-0449487,4/15/2024,3.4,Afternoon,Wine,Near restaurant,Regular,631,Male,Spaniard
+77-4003320,11/19/2024,3.4,Evening,Wine,Far,First-timer,632,Female,Vietnamese
+93-2048884,2/19/2025,2,Evening,Irish,Near restaurant,Regular,633,Female,Chippewa
+03-1496518,3/23/2024,3.6,Morning,Irish,Far,Tourist,634,Female,Tohono O'Odham
+47-2255728,06-09-2024,3.9,Evening,Continental,Far,Regular,635,Female,Tlingit-Haida
+11-1154201,1/15/2025,3.3,Afternoon,Irish,Far,Tourist,636,Male,Iroquois
+22-8865628,8/17/2024,4.3,Morning,Snacks,Far,Seldom,637,Female,Alaska Native
+68-0758005,10/25/2024,1.1,Evening,Wine,Far,Seldom,638,Male,Ottawa
+54-3479867,11-05-2024,3.2,Morning,Irish,Near restaurant,Regular,639,Female,Polynesian
+52-5110342,12/27/2024,3.4,Morning,Snacks,Far,First-timer,640,Male,Salvadoran
+67-8444646,8/22/2024,1.9,Night,Continental,Local,Regular,641,Male,Guamanian
+94-8165647,02-12-2025,3.9,Morning,Wine,Local,Tourist,642,Female,Central American
+80-7716334,8/28/2024,4,Evening,Snacks,Far,Seldom,643,Male,Laotian
+77-0435750,2/16/2025,1.5,Night,Snacks,Local,Regular,644,Male,Honduran
+19-0488426,10-01-2024,1.6,Night,Irish,Local,Seldom,645,Female,Cheyenne
+51-4495594,6/20/2024,1.4,Night,Snacks,Near restaurant,Regular,646,Female,South American
+12-4630645,2/26/2025,2.8,Evening,Wine,Local,Regular,647,Male,Cheyenne
+98-2223248,4/25/2024,4.2,Night,Wine,Far,First-timer,648,Female,Cree
+45-6813388,12/24/2024,2.3,Night,Wine,Local,Regular,649,Female,Tlingit-Haida
+78-2672585,9/25/2024,4.7,Morning,Irish,Far,Tourist,650,Female,American Indian and Alaska Native (AIAN)
+44-5498507,6/21/2024,3.6,Morning,Irish,Local,Regular,651,Female,White
+13-5391757,09-08-2024,4.9,Morning,Snacks,Near restaurant,Seldom,652,Female,Vietnamese
+09-9294962,2/19/2025,1.9,Evening,Irish,Near restaurant,Regular,653,Female,Taiwanese
+17-0043202,09-02-2024,2.9,Afternoon,Wine,Near restaurant,Tourist,654,Female,Thai
+64-5423134,1/25/2025,4.8,Night,Irish,Local,Tourist,655,Female,Tohono O'Odham
+45-0105049,5/20/2024,4.3,Afternoon,Snacks,Local,Tourist,656,Female,Sioux
+07-6396789,04-08-2024,1.8,Night,Irish,Near restaurant,Regular,657,Male,Menominee
+24-2816398,12-07-2024,3,Evening,Irish,Near restaurant,Regular,658,Male,Iroquois
+33-7027008,12/14/2024,3.8,Morning,Irish,Near restaurant,First-timer,659,Male,Native Hawaiian and Other Pacific Islander (NHPI)
+18-7638482,11-10-2024,4.5,Night,Continental,Local,Seldom,660,Male,Sioux
+56-4184896,7/25/2024,2.7,Afternoon,Snacks,Near restaurant,Seldom,661,Male,Sri Lankan
+65-2931002,11/13/2024,4.9,Night,Wine,Local,Regular,662,Female,Argentinian
+85-3225094,10/22/2024,3.2,Afternoon,Wine,Near restaurant,First-timer,663,Male,Guatemalan
+37-0775497,07-12-2024,1.4,Evening,Irish,Local,Seldom,664,Male,Native Hawaiian and Other Pacific Islander (NHPI)
+26-8571126,08-12-2024,4.2,Night,Continental,Local,Regular,665,Female,Blackfeet
+75-3304735,10-01-2024,2.9,Morning,Wine,Local,Regular,666,Male,Peruvian
+79-1581213,10-07-2024,3.2,Evening,Wine,Local,Seldom,667,Female,Salvadoran
+42-2886981,8/26/2024,1.6,Morning,Continental,Far,Seldom,668,Female,Native Hawaiian
+82-2575547,9/27/2024,2.3,Morning,Continental,Far,Regular,669,Male,Seminole
+74-0347496,03-05-2025,1.9,Night,Snacks,Near restaurant,First-timer,670,Male,Yaqui
+34-1650982,8/16/2024,2.8,Morning,Wine,Near restaurant,First-timer,671,Female,Houma
+89-5801208,5/30/2024,1.7,Afternoon,Snacks,Far,First-timer,672,Female,Colombian
+92-1634326,10/21/2024,2,Night,Irish,Far,First-timer,673,Female,Ute
+82-8775779,9/14/2024,3.9,Morning,Continental,Far,First-timer,674,Male,Sri Lankan
+09-2855301,1/30/2025,2.6,Afternoon,Continental,Local,Tourist,675,Male,Salvadoran
+49-3312085,7/20/2024,1.5,Night,Irish,Near restaurant,Regular,676,Male,Houma
+73-2726082,09-05-2024,4.1,Night,Continental,Far,First-timer,677,Female,Pueblo
+27-8325370,04-10-2024,4.4,Night,Continental,Far,Seldom,678,Male,Tongan
+55-9232786,05-12-2024,1.4,Night,Snacks,Local,Regular,679,Female,Latin American Indian
+20-5428472,7/23/2024,3.6,Morning,Snacks,Local,Regular,680,Female,Filipino
+76-0697875,10/15/2024,4.9,Evening,Irish,Near restaurant,Regular,681,Male,Puget Sound Salish
+61-7413621,10/20/2024,2.8,Night,Continental,Far,Regular,682,Male,Hmong
+36-4245355,9/22/2024,3.3,Afternoon,Continental,Far,First-timer,683,Male,Ottawa
+21-8801899,8/28/2024,1.6,Afternoon,Snacks,Far,First-timer,684,Male,Uruguayan
+17-9714646,4/14/2024,5,Night,Snacks,Far,Regular,685,Female,Japanese
+33-4784021,4/21/2024,2.5,Evening,Snacks,Far,First-timer,686,Female,Chippewa
+73-7900696,11-04-2024,3.6,Evening,Irish,Near restaurant,First-timer,687,Male,Panamanian
+15-3065828,3/25/2024,4.7,Evening,Wine,Near restaurant,First-timer,688,Male,Apache
+93-0653391,07-02-2024,3.7,Evening,Snacks,Local,First-timer,689,Male,Yaqui
+01-5280656,3/27/2024,1.3,Evening,Continental,Local,Tourist,690,Male,Guamanian
+73-5224645,9/15/2024,2.8,Night,Wine,Local,Regular,691,Female,Tlingit-Haida
+42-3817365,4/23/2024,3.4,Evening,Irish,Near restaurant,Seldom,692,Male,Puerto Rican
+33-9082729,1/26/2025,1.3,Night,Wine,Near restaurant,Tourist,693,Male,Bolivian
+33-4693044,3/22/2024,3.3,Night,Irish,Far,Tourist,694,Female,Navajo
+34-1778265,6/13/2024,3.5,Night,Wine,Far,Regular,695,Female,Nicaraguan
+73-8117336,4/27/2024,1.7,Evening,Continental,Local,First-timer,696,Female,Ecuadorian
+21-2133521,11-06-2024,3.3,Evening,Wine,Far,Seldom,697,Male,Asian Indian
+60-7994264,8/16/2024,3.8,Evening,Snacks,Near restaurant,Tourist,698,Male,Alaska Native
+58-6603941,11-12-2024,3.4,Morning,Continental,Local,Seldom,699,Female,Peruvian
+00-4993801,4/17/2024,3.9,Night,Wine,Far,Regular,700,Male,Menominee
+56-3842094,1/26/2025,1,Evening,Wine,Far,Tourist,701,Female,Creek
+37-8557489,05-04-2024,4.8,Night,Wine,Local,First-timer,702,Female,Puget Sound Salish
+12-2930563,7/18/2024,1.4,Afternoon,Snacks,Far,Regular,703,Female,Cree
+23-9047734,8/24/2024,4,Morning,Continental,Local,Regular,704,Female,Laotian
+35-7960015,2/16/2025,4.1,Afternoon,Wine,Near restaurant,Regular,705,Male,Ottawa
+10-9084824,5/18/2024,4.5,Evening,Continental,Near restaurant,Seldom,706,Male,Chamorro
+46-5070246,03-12-2024,3.2,Evening,Wine,Far,Tourist,707,Female,Cherokee
+09-1999261,8/30/2024,1,Afternoon,Wine,Near restaurant,Seldom,708,Male,Honduran
+57-8198022,3/14/2024,4.6,Morning,Snacks,Local,First-timer,709,Female,Chamorro
+41-4070368,11/27/2024,3.5,Night,Irish,Far,Tourist,710,Male,Ottawa
+15-5965342,03-02-2025,1.5,Evening,Continental,Far,Regular,711,Female,Honduran
+39-5691710,03-12-2024,1.9,Afternoon,Snacks,Far,First-timer,712,Female,Tongan
+02-8921446,03-03-2025,1.9,Evening,Continental,Far,Seldom,713,Female,Bolivian
+74-7239777,1/15/2025,4.4,Afternoon,Irish,Local,First-timer,714,Female,Japanese
+57-4538702,3/14/2024,2.9,Night,Snacks,Near restaurant,Tourist,715,Female,Uruguayan
+79-6961381,07-04-2024,1.8,Evening,Snacks,Far,Tourist,716,Male,Bolivian
+92-0732536,05-07-2024,2.6,Evening,Continental,Local,Tourist,717,Female,American Indian
+37-2038110,07-04-2024,1.1,Night,Continental,Local,Seldom,718,Female,Chamorro
+06-7840243,2/18/2025,1.4,Afternoon,Snacks,Near restaurant,Regular,719,Female,Sioux
+14-5643622,4/25/2024,4.8,Night,Continental,Far,Regular,720,Female,Chickasaw
+29-4871646,06-10-2024,4,Afternoon,Irish,Far,Seldom,721,Male,Crow
+95-0723496,06-05-2024,2.8,Morning,Wine,Near restaurant,Seldom,722,Male,Fijian
+94-3347173,5/28/2024,3.6,Morning,Snacks,Far,First-timer,723,Male,Bolivian
+87-9464857,03-06-2025,4.7,Afternoon,Snacks,Local,First-timer,724,Male,Puerto Rican
+70-8346796,12/21/2024,3.8,Afternoon,Wine,Local,First-timer,725,Female,Chilean
+60-7793655,8/21/2024,4,Night,Continental,Near restaurant,Tourist,726,Female,Venezuelan
+81-2567284,6/23/2024,2.7,Night,Wine,Far,Regular,727,Male,Chippewa
+60-0591873,06-11-2024,4.4,Night,Wine,Local,Tourist,728,Male,Pima
+64-4430936,03-02-2025,3.2,Afternoon,Continental,Far,Regular,729,Female,Ecuadorian
+15-4064509,09-11-2024,1.9,Morning,Irish,Far,Regular,730,Male,Guatemalan
+84-0950439,5/22/2024,3.6,Afternoon,Snacks,Near restaurant,Seldom,731,Female,American Indian
+67-4064433,8/24/2024,4.7,Evening,Irish,Near restaurant,Seldom,732,Male,Lumbee
+64-8137513,5/29/2024,3.8,Night,Snacks,Far,First-timer,733,Female,Samoan
+84-1728394,9/25/2024,1.8,Morning,Continental,Far,First-timer,734,Male,Eskimo
+06-0727743,5/26/2024,3,Evening,Continental,Far,First-timer,735,Female,Colville
+19-9953976,12-09-2024,4.5,Afternoon,Irish,Far,Regular,736,Male,Puget Sound Salish
+59-5677597,2/13/2025,3.7,Afternoon,Irish,Local,First-timer,737,Female,Hmong
+48-4025582,02-06-2025,3.8,Night,Wine,Far,Regular,738,Female,Tongan
+24-8831276,10/18/2024,4.3,Evening,Continental,Near restaurant,First-timer,739,Female,American Indian
+34-4198820,12/31/2024,1.1,Morning,Continental,Local,Seldom,740,Female,Lumbee
+83-6972386,6/15/2024,3.5,Afternoon,Snacks,Near restaurant,First-timer,741,Male,Delaware
+44-7951706,11/17/2024,2.7,Afternoon,Continental,Local,Tourist,742,Male,Micronesian
+74-1444547,11/24/2024,2.1,Evening,Snacks,Local,Regular,743,Female,Potawatomi
+01-5637565,4/22/2024,3,Night,Snacks,Local,Tourist,744,Male,Chickasaw
+58-3460879,12-05-2024,3.9,Morning,Snacks,Local,First-timer,745,Male,Hmong
+52-7274631,6/29/2024,2.1,Night,Snacks,Far,First-timer,746,Male,Vietnamese
+72-1447872,2/19/2025,3.7,Afternoon,Irish,Far,First-timer,747,Female,Melanesian
+76-8058257,10/23/2024,2.1,Morning,Wine,Local,Tourist,748,Male,Native Hawaiian and Other Pacific Islander (NHPI)
+62-8284641,5/28/2024,2.6,Evening,Snacks,Local,Seldom,749,Male,Nicaraguan
+37-7335958,7/23/2024,1.5,Morning,Irish,Far,First-timer,750,Male,Cambodian
+32-3300438,02-04-2025,4.9,Afternoon,Irish,Far,Seldom,751,Male,Hmong
+86-7674487,2/19/2025,4.3,Morning,Snacks,Near restaurant,First-timer,752,Female,Apache
+32-6047287,01-11-2025,2.3,Afternoon,Irish,Far,Regular,753,Female,Uruguayan
+43-1450403,3/30/2024,2.6,Night,Continental,Near restaurant,Regular,754,Female,Colville
+14-9182652,11/29/2024,3.4,Morning,Wine,Local,Seldom,755,Male,Guatemalan
+66-3492824,11/17/2024,3.8,Evening,Wine,Local,Tourist,756,Female,Sri Lankan
+91-9383904,02-08-2025,2.4,Afternoon,Wine,Far,Tourist,757,Female,American Indian and Alaska Native (AIAN)
+02-9343669,01-04-2025,3,Morning,Continental,Local,Tourist,758,Female,Samoan
+72-9357453,01-10-2025,1.4,Evening,Wine,Near restaurant,Regular,759,Female,Eskimo
+17-0789067,1/19/2025,1.9,Evening,Continental,Far,Seldom,760,Male,Chamorro
+61-5472466,12/18/2024,1.7,Night,Irish,Local,First-timer,761,Female,Chilean
+62-1127691,05-05-2024,1.1,Evening,Snacks,Near restaurant,Tourist,762,Male,Menominee
+02-0352806,7/26/2024,4.3,Afternoon,Snacks,Near restaurant,Regular,763,Male,Laotian
+10-1011950,10/16/2024,1.3,Night,Continental,Local,Tourist,764,Male,Japanese
+13-6570001,07-09-2024,4.6,Night,Continental,Near restaurant,Tourist,765,Male,Fijian
+43-1194124,7/30/2024,3.2,Morning,Snacks,Near restaurant,Regular,766,Female,Indonesian
+64-3862755,6/14/2024,1.4,Night,Wine,Local,First-timer,767,Male,Panamanian
+86-7327592,06-07-2024,4,Evening,Wine,Local,Regular,768,Female,American Indian and Alaska Native (AIAN)
+52-0266254,02-01-2025,2.1,Morning,Wine,Local,Regular,769,Male,Lumbee
+45-5512547,9/22/2024,1.7,Evening,Continental,Far,Tourist,770,Female,Mexican
+81-8609096,03-11-2024,3.6,Evening,Continental,Far,Regular,771,Female,Aleut
+88-1079332,3/31/2024,2.6,Afternoon,Wine,Near restaurant,Seldom,772,Male,Bangladeshi
+80-5115964,12/22/2024,1.2,Night,Snacks,Near restaurant,Regular,773,Female,Chinese
+51-7363671,03-10-2025,1.5,Evening,Continental,Far,Regular,774,Female,Blackfeet
+49-6558426,12-05-2024,3,Morning,Continental,Near restaurant,Seldom,775,Male,Cambodian
+82-5733493,12/28/2024,1.3,Morning,Irish,Near restaurant,Regular,776,Male,Chamorro
+10-5791479,9/22/2024,2.6,Night,Irish,Near restaurant,Tourist,777,Female,Micronesian
+97-4979912,09-01-2024,4.2,Morning,Wine,Local,Regular,778,Female,Lumbee
+38-8355953,5/24/2024,1.4,Night,Wine,Near restaurant,Regular,779,Female,Cuban
+55-7364941,04-02-2024,2.8,Evening,Irish,Local,Tourist,780,Male,Choctaw
+55-7700221,2/20/2025,2,Morning,Irish,Near restaurant,First-timer,781,Male,Cree
+89-9305180,3/18/2024,4.9,Afternoon,Irish,Far,Regular,782,Female,Honduran
+16-2743374,5/25/2024,4.6,Night,Snacks,Local,Regular,783,Female,Puerto Rican
+28-3111201,8/31/2024,2.1,Afternoon,Irish,Far,Regular,784,Male,Hmong
+18-3829285,11/18/2024,4.9,Night,Wine,Local,Seldom,785,Female,Laotian
+10-6261884,2/15/2025,1,Evening,Continental,Far,Seldom,786,Female,Filipino
+64-4309366,7/16/2024,4.2,Afternoon,Irish,Near restaurant,First-timer,787,Female,Micronesian
+51-6579835,9/13/2024,2.2,Evening,Irish,Local,Tourist,788,Male,Costa Rican
+31-1484161,01-04-2025,4.7,Morning,Wine,Near restaurant,Tourist,789,Male,Bangladeshi
+43-4663982,1/28/2025,3.7,Afternoon,Continental,Near restaurant,Regular,790,Female,American Indian and Alaska Native (AIAN)
+33-8131572,4/30/2024,5,Afternoon,Wine,Local,Seldom,791,Male,Central American
+42-8558678,2/20/2025,4.7,Evening,Snacks,Far,Regular,792,Female,South American
+96-9361325,04-07-2024,4.2,Morning,Continental,Far,Tourist,793,Female,Spaniard
+26-7104095,8/13/2024,4,Evening,Irish,Near restaurant,First-timer,794,Male,Samoan
+44-7481568,4/29/2024,4.3,Afternoon,Snacks,Far,Seldom,795,Female,Blackfeet
+43-4569241,9/26/2024,2.3,Afternoon,Continental,Local,First-timer,796,Male,Indonesian
+61-7970039,07-02-2024,2.7,Afternoon,Wine,Near restaurant,First-timer,797,Male,Apache
+80-7647673,1/27/2025,2.4,Afternoon,Irish,Local,First-timer,798,Female,Creek
+03-0981796,7/28/2024,2.1,Morning,Irish,Near restaurant,Seldom,799,Female,Bangladeshi
+57-2694389,4/22/2024,4.8,Afternoon,Snacks,Near restaurant,Tourist,800,Female,Honduran
+70-7608010,3/18/2024,3.3,Evening,Continental,Near restaurant,First-timer,801,Male,Korean
+72-2783105,01-03-2025,3.2,Night,Irish,Far,First-timer,802,Male,Japanese
+49-6083491,09-12-2024,1.2,Afternoon,Wine,Local,Seldom,803,Male,American Indian
+18-2652852,5/13/2024,3.5,Evening,Snacks,Local,Seldom,804,Female,Kiowa
+95-0562317,01-02-2025,4.7,Afternoon,Wine,Near restaurant,Tourist,805,Female,Nicaraguan
+69-4475430,01-06-2025,3,Afternoon,Continental,Near restaurant,First-timer,806,Female,Chinese
+37-1913377,10-02-2024,4.8,Morning,Snacks,Local,Regular,807,Male,Vietnamese
+92-2409232,7/31/2024,2.6,Morning,Snacks,Far,First-timer,808,Male,Apache
+09-1073599,5/28/2024,1.1,Morning,Wine,Far,Regular,809,Male,Lumbee
+82-8850711,10-10-2024,3.8,Evening,Snacks,Local,Tourist,810,Female,Japanese
+44-3861579,6/17/2024,1.3,Morning,Continental,Far,First-timer,811,Female,Japanese
+09-7576547,5/16/2024,2.7,Evening,Wine,Near restaurant,Regular,812,Female,Mexican
+37-4302799,1/14/2025,4,Evening,Continental,Local,Tourist,813,Male,Malaysian
+24-9898714,09-03-2024,1.2,Night,Wine,Local,Seldom,814,Male,Sioux
+00-6158565,09-12-2024,2.4,Night,Snacks,Near restaurant,Regular,815,Male,Malaysian
+06-1139627,11-12-2024,1.2,Night,Irish,Local,Tourist,816,Male,Paraguayan
+16-7111965,5/20/2024,2.3,Morning,Wine,Near restaurant,First-timer,817,Male,Chilean
+39-9203852,02-02-2025,3,Morning,Irish,Far,Regular,818,Female,American Indian and Alaska Native (AIAN)
+53-1274571,3/28/2024,2.2,Afternoon,Snacks,Near restaurant,Regular,819,Male,Guatemalan
+48-9258554,4/17/2024,2.9,Afternoon,Continental,Local,Tourist,820,Female,Lumbee
+44-6949208,9/26/2024,3.2,Night,Snacks,Near restaurant,First-timer,821,Female,Choctaw
+84-3880151,1/30/2025,4.8,Afternoon,Wine,Local,Seldom,822,Male,Bangladeshi
+65-3792176,10-09-2024,4.5,Evening,Irish,Far,Regular,823,Male,South American
+99-2394214,02-04-2025,1.7,Night,Wine,Far,Seldom,824,Female,Tlingit-Haida
+01-7096062,5/29/2024,2.8,Night,Snacks,Local,Regular,825,Female,American Indian and Alaska Native (AIAN)
+76-7524574,6/16/2024,4.3,Morning,Snacks,Near restaurant,Regular,826,Male,Bangladeshi
+11-9382265,8/31/2024,4.2,Afternoon,Irish,Far,First-timer,827,Female,Aleut
+51-1672505,7/13/2024,3.4,Afternoon,Wine,Local,First-timer,828,Male,Crow
+12-3127281,02-11-2025,2.2,Afternoon,Irish,Near restaurant,Seldom,829,Female,Taiwanese
+78-5066805,02-10-2025,1.2,Afternoon,Wine,Far,Regular,830,Male,Thai
+87-4485712,1/17/2025,3.7,Morning,Continental,Near restaurant,Seldom,831,Female,Osage
+70-4753987,12-06-2024,3.5,Afternoon,Wine,Near restaurant,Tourist,832,Male,Sri Lankan
+74-1665278,11/26/2024,2.5,Morning,Continental,Near restaurant,Tourist,833,Female,Cheyenne
+24-2234179,11-09-2024,1.9,Night,Irish,Near restaurant,Seldom,834,Female,Micronesian
+65-4480488,5/27/2024,3.3,Night,Continental,Far,Seldom,835,Male,Sioux
+59-8006233,12/20/2024,3.7,Afternoon,Wine,Near restaurant,Tourist,836,Female,Native Hawaiian and Other Pacific Islander (NHPI)
+13-7124216,10/14/2024,3.8,Afternoon,Snacks,Local,First-timer,837,Female,Nicaraguan
+42-4736655,2/28/2025,4.2,Evening,Continental,Local,Seldom,838,Female,Puerto Rican
+53-0910572,02-09-2025,2.7,Afternoon,Snacks,Local,Regular,839,Male,Iroquois
+66-9105043,3/19/2024,1.6,Afternoon,Snacks,Local,Regular,840,Female,Peruvian
+36-3268033,02-11-2025,2,Evening,Wine,Far,Seldom,841,Female,Lumbee
+59-1498489,5/29/2024,3.4,Morning,Snacks,Near restaurant,Regular,842,Female,Native Hawaiian
+41-7405514,3/26/2024,4.6,Morning,Wine,Local,Seldom,843,Male,Iroquois
+14-0427338,10/14/2024,3.8,Afternoon,Snacks,Near restaurant,Seldom,844,Male,Bolivian
+48-4080330,12/21/2024,1.1,Afternoon,Snacks,Near restaurant,Regular,845,Female,Latin American Indian
+92-7879552,11/20/2024,3.8,Evening,Continental,Near restaurant,Seldom,846,Female,Native Hawaiian
+48-4170162,3/19/2024,1.7,Morning,Continental,Near restaurant,Regular,847,Male,Sri Lankan
+27-8317878,12-05-2024,3.6,Night,Wine,Far,First-timer,848,Male,Cambodian
+33-2067147,11/28/2024,3,Morning,Wine,Far,Regular,849,Male,Paiute
+89-1058881,02-12-2025,1.3,Morning,Continental,Far,First-timer,850,Male,Honduran
+89-0032965,10/31/2024,2.1,Afternoon,Irish,Far,Tourist,851,Female,Delaware
+89-6101073,5/29/2024,3.8,Afternoon,Snacks,Near restaurant,Seldom,852,Male,Paraguayan
+37-0499005,7/26/2024,2.7,Night,Wine,Near restaurant,First-timer,853,Female,Asian
+22-6988409,04-05-2024,2.5,Evening,Irish,Local,First-timer,854,Female,Ottawa
+88-9898945,03-05-2025,4.3,Morning,Irish,Far,Tourist,855,Male,Cambodian
+16-4016129,1/17/2025,1.3,Evening,Snacks,Far,First-timer,856,Female,Menominee
+72-6204485,2/23/2025,1.8,Evening,Snacks,Near restaurant,First-timer,857,Male,Laotian
+89-1494292,9/25/2024,1.5,Night,Irish,Far,Tourist,858,Female,Menominee
+06-4341125,08-05-2024,3.4,Evening,Snacks,Far,Regular,859,Female,Cree
+81-4023293,8/30/2024,1.6,Morning,Continental,Local,First-timer,860,Male,Bolivian
+13-8903210,12-10-2024,4.7,Night,Snacks,Near restaurant,Regular,861,Male,Samoan
+31-0965896,10/14/2024,2.5,Evening,Irish,Far,Seldom,862,Female,Filipino
+38-2003857,12/13/2024,1,Afternoon,Wine,Far,First-timer,863,Male,Laotian
+39-0588928,01-04-2025,4.5,Evening,Snacks,Local,Tourist,864,Female,Argentinian
+64-3739157,7/16/2024,2.7,Afternoon,Irish,Local,Seldom,865,Male,Ottawa
+92-9064505,4/14/2024,1.3,Morning,Snacks,Local,Regular,866,Female,Indonesian
+79-8084561,1/24/2025,2.5,Evening,Snacks,Far,First-timer,867,Male,Lumbee
+20-9994961,04-10-2024,2.7,Morning,Snacks,Local,Regular,868,Female,Samoan
+46-0029453,12/16/2024,3.5,Afternoon,Wine,Local,Regular,869,Female,Honduran
+27-9087526,7/24/2024,2.7,Night,Wine,Far,First-timer,870,Male,Houma
+37-3999913,1/17/2025,2.7,Night,Snacks,Near restaurant,First-timer,871,Female,Colville
+56-3700580,02-04-2025,1.6,Evening,Irish,Local,Regular,872,Male,Asian
+34-0480381,12-05-2024,4.6,Night,Continental,Near restaurant,Regular,873,Male,Sioux
+82-2363132,09-09-2024,4.5,Afternoon,Continental,Near restaurant,Tourist,874,Female,Sioux
+71-4863076,7/24/2024,3.5,Morning,Wine,Near restaurant,Regular,875,Male,Native Hawaiian
+48-7883024,06-12-2024,1.6,Morning,Irish,Far,Tourist,876,Female,Blackfeet
+77-4094568,11-07-2024,4.2,Night,Irish,Near restaurant,Regular,877,Male,Samoan
+98-4744509,05-08-2024,1.5,Night,Wine,Local,First-timer,878,Female,Spaniard
+42-2728733,11/21/2024,1.6,Afternoon,Wine,Near restaurant,Regular,879,Male,Kiowa
+19-3696814,6/15/2024,1.6,Afternoon,Wine,Local,Seldom,880,Male,Yuman
+78-4727573,6/28/2024,2.3,Night,Continental,Far,First-timer,881,Female,Melanesian
+63-3009349,5/21/2024,2.2,Night,Snacks,Near restaurant,Regular,882,Female,Chamorro
+90-4973938,04-04-2024,2.7,Morning,Irish,Local,First-timer,883,Male,Taiwanese
+68-0234392,1/30/2025,4.5,Night,Continental,Local,First-timer,884,Female,Ute
+29-4662013,3/20/2024,3.1,Evening,Irish,Far,Seldom,885,Female,Cherokee
+63-7901884,09-10-2024,3.9,Morning,Irish,Near restaurant,Tourist,886,Female,Venezuelan
+39-7488834,6/30/2024,2,Morning,Continental,Local,Tourist,887,Female,Apache
+72-1844898,5/26/2024,2.6,Afternoon,Snacks,Near restaurant,First-timer,888,Male,Aleut
+50-6112157,6/15/2024,1.4,Evening,Wine,Local,Tourist,889,Female,Colville
+03-1696185,7/27/2024,4.3,Night,Snacks,Near restaurant,Tourist,890,Female,Melanesian
+42-6258869,2/22/2025,1.5,Morning,Continental,Near restaurant,Tourist,891,Male,Crow
+31-5157293,05-12-2024,4.7,Afternoon,Snacks,Near restaurant,Seldom,892,Female,Tlingit-Haida
+02-3905928,5/22/2024,1.8,Evening,Continental,Far,Seldom,893,Male,Iroquois
+31-6332765,10-07-2024,3.8,Evening,Continental,Far,Tourist,894,Female,Venezuelan
+59-9943703,11-11-2024,4.7,Morning,Snacks,Local,Regular,895,Female,Aleut
+19-2485379,12/20/2024,4.6,Morning,Irish,Near restaurant,First-timer,896,Male,Korean
+66-8467595,6/17/2024,1.6,Morning,Wine,Local,Seldom,897,Female,Samoan
+30-8137947,08-09-2024,2.1,Night,Wine,Near restaurant,First-timer,898,Male,Mexican
+11-7390634,6/25/2024,2.6,Evening,Irish,Near restaurant,Tourist,899,Female,Creek
+99-3591127,5/30/2024,2.9,Afternoon,Wine,Near restaurant,Seldom,900,Male,Comanche
+51-6809119,12/14/2024,3.3,Night,Wine,Local,Tourist,901,Male,Samoan
+15-8174240,8/19/2024,2.8,Night,Wine,Local,Regular,902,Male,Pueblo
+40-7357554,12-08-2024,3.2,Evening,Continental,Near restaurant,Tourist,903,Male,Latin American Indian
+24-9017839,11/16/2024,2,Evening,Continental,Local,Tourist,904,Female,Salvadoran
+74-8506220,06-06-2024,3.1,Night,Wine,Near restaurant,Tourist,905,Male,American Indian and Alaska Native (AIAN)
+27-5364377,04-09-2024,1.5,Morning,Snacks,Far,Tourist,906,Male,Creek
+22-1979130,06-04-2024,2.6,Night,Wine,Near restaurant,First-timer,907,Male,Ute
+60-0475308,2/13/2025,4.2,Afternoon,Wine,Local,Tourist,908,Female,American Indian
+16-4411452,4/17/2024,3.7,Evening,Continental,Local,Tourist,909,Female,Colville
+70-6640619,01-12-2025,3,Afternoon,Irish,Far,First-timer,910,Female,Hmong
+47-2663227,4/23/2024,2.1,Evening,Irish,Near restaurant,Seldom,911,Female,Chickasaw
+43-7170459,04-01-2024,2,Evening,Irish,Local,Tourist,912,Female,Central American
+39-8807473,7/21/2024,4.8,Night,Wine,Near restaurant,First-timer,913,Female,Shoshone
+07-4720933,04-11-2024,4.7,Afternoon,Wine,Near restaurant,Regular,914,Male,Pima
+94-0348653,5/31/2024,2.2,Afternoon,Continental,Far,Tourist,915,Male,Houma
+39-9918019,8/31/2024,1,Night,Snacks,Far,First-timer,916,Female,Crow
+37-9114233,8/29/2024,1,Night,Irish,Far,Seldom,917,Male,American Indian
+62-7777127,11-12-2024,4,Evening,Continental,Far,First-timer,918,Female,Thai
+39-2878095,6/20/2024,3.2,Night,Wine,Near restaurant,Tourist,919,Male,Central American
+10-2998901,08-05-2024,2,Evening,Snacks,Local,Tourist,920,Male,Japanese
+63-4468346,4/30/2024,1.1,Evening,Wine,Far,Regular,921,Male,Guamanian
+44-3347886,09-02-2024,1.9,Morning,Snacks,Near restaurant,First-timer,922,Female,Fijian
+41-0109675,09-03-2024,1.9,Morning,Continental,Far,Tourist,923,Male,Argentinian
+75-0732791,04-11-2024,2.9,Evening,Continental,Near restaurant,Regular,924,Female,Tohono O'Odham
+92-9039235,09-01-2024,3.8,Afternoon,Continental,Near restaurant,First-timer,925,Female,Yuman
+58-0059502,12-06-2024,2.4,Night,Snacks,Local,Regular,926,Male,Yuman
+09-7679869,3/13/2024,1.8,Night,Irish,Near restaurant,Seldom,927,Female,Thai
+89-4582932,10/26/2024,1.2,Morning,Wine,Near restaurant,First-timer,928,Male,Laotian
+04-8795420,2/17/2025,1.1,Morning,Wine,Near restaurant,Seldom,929,Female,Pueblo
+42-3146754,3/21/2024,4.3,Night,Snacks,Near restaurant,Tourist,930,Female,Samoan
+84-1690286,2/17/2025,3.3,Afternoon,Snacks,Local,Regular,931,Female,Ecuadorian
+24-4309114,9/18/2024,2.7,Morning,Snacks,Near restaurant,First-timer,932,Female,Ottawa
+93-9852953,6/16/2024,3.4,Evening,Snacks,Local,Seldom,933,Female,Paraguayan
+62-6578358,5/22/2024,1.3,Evening,Irish,Local,Tourist,934,Female,Dominican (Dominican Republic)
+29-9183322,4/19/2024,4.3,Afternoon,Snacks,Far,Seldom,935,Female,Filipino
+59-3021339,09-11-2024,1.9,Evening,Wine,Local,Regular,936,Female,Melanesian
+75-9339424,8/26/2024,4.6,Afternoon,Wine,Far,Tourist,937,Male,Alaska Native
+50-5848233,6/22/2024,1.8,Morning,Wine,Far,Regular,938,Female,Delaware
+05-5437421,3/21/2024,1.3,Night,Snacks,Far,Tourist,939,Female,Cherokee
+74-4245484,1/27/2025,3.9,Night,Wine,Near restaurant,Tourist,940,Male,Laotian
+39-9529298,8/17/2024,4,Morning,Continental,Far,First-timer,941,Female,Taiwanese
+54-1491511,6/24/2024,3.8,Night,Snacks,Far,Regular,942,Female,Fijian
+00-8476644,2/18/2025,2.5,Morning,Continental,Local,First-timer,943,Male,Honduran
+97-9470952,10/26/2024,1.9,Evening,Snacks,Local,Seldom,944,Female,Micronesian
+62-0655238,04-02-2024,1.2,Morning,Wine,Local,First-timer,945,Female,Aleut
+72-0909509,9/25/2024,1.9,Night,Irish,Local,Regular,946,Female,Vietnamese
+04-0744276,08-03-2024,3.7,Evening,Irish,Local,Tourist,947,Female,Filipino
+84-6043619,10-12-2024,2.8,Evening,Snacks,Near restaurant,First-timer,948,Male,Latin American Indian
+75-7046155,02-03-2025,2,Evening,Irish,Far,First-timer,949,Male,Latin American Indian
+86-2868947,8/28/2024,1,Evening,Wine,Far,First-timer,950,Male,Panamanian
+07-0430920,03-11-2024,2.8,Evening,Wine,Local,First-timer,951,Male,American Indian and Alaska Native (AIAN)
+25-8075189,01-07-2025,3.5,Morning,Continental,Far,Tourist,952,Female,Tongan
+73-3042726,11-06-2024,3,Night,Wine,Local,Regular,953,Male,Choctaw
+93-5114211,9/30/2024,3.7,Night,Continental,Near restaurant,First-timer,954,Male,Uruguayan
+83-0178377,3/14/2024,3.3,Afternoon,Wine,Local,Seldom,955,Female,Mexican
+69-4207540,9/22/2024,4.8,Evening,Continental,Far,First-timer,956,Male,Bolivian
+49-1724991,5/14/2024,2.1,Morning,Continental,Local,Regular,957,Female,Ute
+61-0159802,8/30/2024,1.5,Afternoon,Irish,Near restaurant,First-timer,958,Female,Peruvian
+16-8583961,8/24/2024,3,Night,Snacks,Near restaurant,Regular,959,Female,Chilean
+81-1034539,11/15/2024,2.7,Evening,Snacks,Near restaurant,Tourist,960,Male,Cherokee
+66-6509894,12/22/2024,2.9,Night,Snacks,Near restaurant,First-timer,961,Female,Indonesian
+39-5183835,4/20/2024,1.6,Evening,Wine,Local,Regular,962,Male,Vietnamese
+32-5879826,2/23/2025,4.1,Afternoon,Snacks,Local,Tourist,963,Male,Osage
+06-3732113,11/15/2024,3.9,Evening,Snacks,Local,Seldom,964,Male,Iroquois
+13-6691299,7/18/2024,3.9,Afternoon,Irish,Near restaurant,Seldom,965,Male,Creek
+83-7556996,5/31/2024,1.6,Evening,Wine,Far,Tourist,966,Female,Lumbee
+83-6207248,3/27/2024,2,Afternoon,Wine,Local,Regular,967,Male,Samoan
+37-0476876,6/29/2024,1.8,Morning,Wine,Near restaurant,First-timer,968,Male,Taiwanese
+81-2873702,7/24/2024,3.6,Afternoon,Irish,Far,Regular,969,Female,Korean
+21-2839444,11/19/2024,2.8,Morning,Wine,Far,First-timer,970,Male,Shoshone
+92-4484341,08-12-2024,2.1,Morning,Wine,Far,Seldom,971,Female,Colombian
+19-0671883,09-06-2024,3.2,Morning,Continental,Local,Tourist,972,Female,Malaysian
+85-8227281,04-12-2024,3.2,Afternoon,Continental,Local,Tourist,973,Male,Eskimo
+16-9580469,6/16/2024,3.4,Evening,Snacks,Far,Regular,974,Female,Pakistani
+27-1655337,9/18/2024,4.2,Afternoon,Irish,Local,Seldom,975,Female,Fijian
+03-8325526,03-02-2025,2.7,Night,Wine,Local,Tourist,976,Female,Ecuadorian
+09-3898159,1/21/2025,3.6,Evening,Wine,Near restaurant,Tourist,977,Female,Ottawa
+47-2745321,05-12-2024,2.7,Afternoon,Irish,Far,Regular,978,Female,Yakama
+93-4217869,06-05-2024,1.5,Morning,Irish,Far,Regular,979,Male,Peruvian
+33-6989339,12-03-2024,2,Morning,Irish,Far,Seldom,980,Male,Tlingit-Haida
+12-1022470,6/27/2024,4.8,Evening,Irish,Local,Seldom,981,Male,Shoshone
+14-6477444,3/15/2024,4.9,Evening,Irish,Far,Seldom,982,Female,Spaniard
+10-8271811,1/23/2025,3.5,Night,Wine,Far,First-timer,983,Female,Malaysian
+08-8256239,5/17/2024,2.6,Afternoon,Continental,Far,Seldom,984,Female,South American
+11-0975431,8/22/2024,1.7,Evening,Irish,Far,Seldom,985,Male,Asian Indian
+89-7851630,10/20/2024,4.1,Afternoon,Continental,Local,Tourist,986,Male,Paiute
+47-4957190,05-09-2024,5,Afternoon,Continental,Near restaurant,Tourist,987,Female,Asian
+27-4572062,11-12-2024,3.8,Night,Continental,Far,First-timer,988,Female,Laotian
+41-4604570,09-02-2024,2.7,Night,Wine,Near restaurant,Seldom,989,Male,Apache
+16-4354047,11/23/2024,4.7,Morning,Wine,Far,Seldom,990,Female,Ottawa
+27-7507796,07-04-2024,2.5,Night,Irish,Local,Tourist,991,Male,Cherokee
+29-0573259,7/18/2024,3.7,Morning,Snacks,Near restaurant,Tourist,992,Male,Salvadoran
+77-8695796,7/15/2024,1.6,Night,Snacks,Local,Tourist,993,Female,Honduran
+78-7751945,4/27/2024,2.9,Afternoon,Continental,Near restaurant,Regular,994,Female,Ute
+27-3636201,03-04-2025,2.8,Evening,Continental,Near restaurant,Seldom,995,Male,Central American
+61-7237995,02-09-2025,2.7,Evening,Irish,Near restaurant,Tourist,996,Male,Pima
+43-1109775,11/17/2024,4.7,Afternoon,Continental,Local,First-timer,997,Male,Asian
+60-8787736,07-04-2024,4.9,Afternoon,Irish,Local,Tourist,998,Male,Guamanian
+54-3742361,12/26/2024,2.8,Night,Continental,Local,Seldom,999,Male,Pima
+07-5174162,2/25/2025,2.7,Evening,Continental,Near restaurant,First-timer,1000,Female,Dominican (Dominican Republic)
