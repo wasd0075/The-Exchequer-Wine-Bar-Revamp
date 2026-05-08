@@ -1,0 +1,66 @@
+.menu-wrapper {
+    border-radius: 20px;
+    border: 1px solid #424242;
+    padding: 1rem;
+    text-align: center;
+    max-width: 100%;
+    margin: auto;
+    background-color: #fff;
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+.toggle-buttons {
+    display: flex;
+    flex-direction: row; /* ✅ Horizontal layout */
+    justify-content: center;
+    align-items: center;
+    gap: 1rem; /* Space between buttons */
+    margin: 1.5rem 0;
+    flex-wrap: nowrap; /* 🚫 Prevent line break */
+}
+
+.toggle-buttons button {
+    padding: 0.6rem 1.4rem;
+    border-radius: 15px;
+    font-weight: bold;
+    font-size: 0.9rem;
+    border: 1px solid #444;
+    cursor: pointer;
+    transition: 0.3s ease;
+    width: auto; /* ✅ Let them size naturally */
+    max-width: none; /* ✅ Remove constraint */
+    white-space: nowrap; /* ✅ Prevent wrapping text inside buttons */
+}
+
+.toggle-buttons button:hover {
+    background-color: #f1f1f1;
+}
+
+.active-btn {
+    background-color: #c1c1c1;
+    color: rgb(44, 44, 44);
+    border-color: #FF4C00;
+}
+
+.menu-box {
+    padding: 0.8rem;
+    background-color: #fcfcfc;
+    border-radius: 15px;
+}
+
+.menu-heading {
+    color: #FF4C00;
+    font-size: 1.3rem;
+    margin-bottom: 0.8rem;
+}
+
+.menu-img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.menu-desc {
+    margin-top: 0.75rem;
+    color: #666;
+    font-size: 0.95rem;
+}

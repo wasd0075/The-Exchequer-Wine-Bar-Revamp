@@ -1,0 +1,68 @@
+<template>
+    <lightning-card title="Most Recent Contact" icon-name="standard:contact">
+      <div class="slds-p-around_medium">
+        <template if:true={contact}>
+          <div class="slds-grid slds-wrap slds-gutters">
+            <!-- Left Column -->
+            <div class="slds-col slds-size_1-of-2">
+              <p><strong>Name:</strong> {fullName}</p>
+              <p><strong>Email:</strong> {contact.Email}</p>
+              <p><strong>Mobile:</strong> {contact.MobilePhone}</p>
+              <p><strong>Phone:</strong> {contact.Phone}</p>
+            </div>
+  
+            <!-- Right Column -->
+            <div class="slds-col slds-size_1-of-2">
+              <p><strong>Title:</strong> {contact.Title}</p>
+              <p><strong>Department:</strong> {contact.Department}</p>
+              <p><strong>Birthdate:</strong> {contact.Birthdate}</p>
+              <p><strong>Lead Source:</strong> {contact.LeadSource}</p>
+            </div>
+          </div>
+  
+          <!-- Description and Audit Trail -->
+          <p class="slds-m-top_medium"><strong>Description:</strong> {contact.Description}</p>
+          <p class="slds-text-color_weak slds-m-top_small">
+            <small>
+              Created by {contact.CreatedBy.Name}, {contact.CreatedDate}<br />
+              Last modified by {contact.LastModifiedBy.Name}, {contact.LastModifiedDate}
+            </small>
+          </p>
+        </template>
+  
+        <template if:false={contact}>
+          <p>Loading latest contact...</p>
+        </template>
+      </div>
+    </lightning-card>
+  
+    <!-- Edit Button Centered -->
+    <div class="slds-align_absolute-center slds-m-around_medium">
+      <lightning-button label="Edit Contact" onclick={openModal} variant="brand"></lightning-button>
+    </div>
+  
+    <!-- Modal -->
+    <template if:true={isModalOpen}>
+      <section role="dialog" tabindex="-1" class="slds-modal slds-fade-in-open">
+        <div class="slds-modal__container">
+          <header class="slds-modal__header">
+            <h2>Edit Contact</h2>
+          </header>
+          <div class="slds-modal__content slds-p-around_medium">
+            <lightning-record-form 
+              record-id={recordId}
+              object-api-name="Contact"
+              layout-type="Full"
+              mode="edit"
+              onsuccess={closeModal}>
+            </lightning-record-form>
+          </div>
+          <footer class="slds-modal__footer">
+            <lightning-button variant="neutral" label="Cancel" onclick={closeModal}></lightning-button>
+          </footer>
+        </div>
+      </section>
+      <div class="slds-backdrop slds-backdrop_open"></div>
+    </template>
+  </template>
+  

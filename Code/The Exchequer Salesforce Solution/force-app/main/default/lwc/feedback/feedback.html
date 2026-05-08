@@ -1,0 +1,109 @@
+<template>
+    <section class="feedback-section">
+      <h1 class="page-heading">Customer Feedback & Ratings</h1>
+  
+      <div class="feedback-grid">
+        <!-- Overall Rating Panel -->
+        <div class="feedback-summary">
+          <div class="rating-heading">Overall Rating</div>
+          <div class="rating-score">{overallRating}</div>
+          <div class="rating-meta">
+            <p class="rating-subtext">based on {ratingCount} ratings</p>
+            <p class="rating-stars">⭐⭐⭐⭐✩</p>
+          </div>
+  
+          <div class="rating-bars">
+            <template for:each={computedRatingBars} for:item="bar">
+              <div key={bar.label} class="bar-row">
+                <span>{bar.label}</span>
+                <div class="bar">
+                  <div style={bar.style}></div>
+                </div>
+              </div>
+            </template>
+          </div>
+  
+          <p class="rating-desc">
+            This shows the overall rating of the customer helping us improve. These values provide insights as to what is lacking, helping us to keep up with the customer demands.
+          </p>
+        </div>
+  
+        <!-- Rating Insights -->
+        <div class="feedback-lists-box-single">
+          <p class="feedback-heading">Rating Insights</p>
+          <h3>What Customers Like</h3>
+          <template for:each={positiveInsights} for:item="item">
+            <div key={item.name} class="feedback-chip green">
+              <span class="chip-num">{item.rank}</span> {item.name}
+              <span class="chip-vote">– {item.votes} votes</span>
+            </div>
+          </template>
+  
+          <h3 style="margin-top: 25px;">What Needs Improvement</h3>
+          <template for:each={negativeInsights} for:item="item">
+            <div key={item.name} class="feedback-chip red">
+              <span class="chip-num">{item.rank}</span> {item.name}
+              <span class="chip-vote">– {item.votes} votes</span>
+            </div>
+          </template>
+        </div>
+  
+        <!-- Right Column: Reviews + Comments -->
+        <div class="feedback-review-col">
+  
+          <!-- Recent Reviews -->
+          <div class="feedback-reviews">
+            <h2 class="review-heading">Recent Reviews</h2>
+            <div class="review-text-list">
+              <template for:each={reviews} for:item="review">
+                <p key={review.id}>{review.text} – <em>{review.author}</em></p>
+              </template>
+            </div>
+          </div>
+  
+          <!-- Comments Section as Form -->
+          <div class="feedback-comments">
+            <h2 class="review-heading">Add Comments About the Reviews</h2>
+  
+            <form onsubmit={handleSubmit}>
+              <div class="form-group">
+                <label for="problem">Problem</label>
+                <input type="text" id="problem" name="problem" placeholder="Describe the issue..." required />
+              </div>
+  
+              <div class="form-group">
+                <label for="department">Assigned to Department</label>
+                <select id="department" name="department" required>
+                  <option value="">Select Department</option>
+                  <option value="support">Customer Support</option>
+                  <option value="operations">Operations</option>
+                  <option value="facilities">Facilities</option>
+                  <option value="management">Management</option>
+                </select>
+              </div>
+  
+              <div class="form-group">
+                <label>Priority</label>
+                <div class="priority-options-btn">
+                  <template for:each={priorities} for:item="priority">
+                    <button type="button" key={priority} class="priority-btn" data-priority={priority} onclick={selectPriority}>{priority}</button>
+                  </template>
+                </div>
+              </div>
+  
+              <div class="form-group">
+                <label for="comments">Comments</label>
+                <textarea id="comments" name="comments" rows="4" placeholder="Additional comments..."></textarea>
+              </div>
+  
+              <div class="form-group">
+                <button type="submit" class="submit-btn">Submit Feedback</button>
+              </div>
+            </form>
+          </div>
+  
+        </div>
+      </div>
+    </section>
+  </template>
+  

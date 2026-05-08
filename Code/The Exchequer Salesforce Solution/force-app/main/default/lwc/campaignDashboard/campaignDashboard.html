@@ -1,0 +1,108 @@
+<template>
+    <lightning-card>
+      <div class="slds-grid slds-wrap" style="height: 275px; margin-top: -10px">
+        <!-- Column 1: Campaign List -->
+        <div class="slds-col slds-size_1-of-3 slds-p-around_small" style="border-right: 1px solid #e5e5e5; margin-top: -12px">
+          <div class="slds-p-around_small slds-grid slds-align-center" style="margin-left: 5px;">
+            <lightning-icon icon-name="standard:campaign" alternative-text="Campaign" size="small" class="slds-m-right_small"></lightning-icon>
+            <h3 class="slds-text-heading_small">Campaign List</h3>
+          </div>
+          <div style="padding-left: 1rem; padding-right: 0;">
+            <div class="slds-box slds-theme_default" style="max-height: 230px; overflow-y: auto; padding: 0;">
+              <table class="slds-table slds-table_cell-buffer slds-table_bordered slds-no-row-hover" style="margin: 0;">
+                <thead>
+                  <tr class="slds-line-height_reset">
+                    <th><div class="slds-truncate">Name</div></th>
+                    <th><div class="slds-truncate">Status</div></th>
+                    <th><div class="slds-truncate">Action</div></th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <template for:each={campaigns} for:item="camp">
+                    <tr key={camp.Id}>
+                      <td><div class="slds-truncate">{camp.Name}</div></td>
+                      <td><div class="slds-truncate">{camp.Status}</div></td>
+                      <td>
+                        <lightning-button label="Details" data-id={camp.Id} onclick={handleShowDetails} variant="neutral"></lightning-button>
+                      </td>
+                    </tr>
+                  </template>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+  
+        <!-- Column 2: Campaign Details + Members -->
+        <div class="slds-col slds-size_1-of-3 slds-p-around_small" style="border-right: 1px solid #e5e5e5;">
+  
+            <!-- 🟣 Campaign Details Heading -->
+            <div class="slds-grid slds-align-center slds-m-bottom_x-small">
+              <lightning-icon 
+                icon-name="standard:campaign" 
+                alternative-text="Campaign" 
+                size="small" 
+                class="slds-m-right_small">
+              </lightning-icon>
+              <h3 class="slds-text-heading_small">Campaign Details</h3>
+            </div>
+          
+            <!--  Campaign Details Box -->
+            <div class="slds-box slds-theme_default slds-p-around_small">
+              <template if:true={selectedCampaign}>
+                <p><strong>Name:</strong> {selectedCampaign.Name}</p>
+                <p><strong>Status:</strong> {selectedCampaign.Status}</p>
+                <p><strong>Type:</strong> {selectedCampaign.Type}</p>
+                <p><strong>Start Date:</strong> {selectedCampaign.StartDate}</p>
+                <p><strong>End Date:</strong> {selectedCampaign.EndDate}</p>
+              </template>
+            </div>
+          
+            <!--  Campaign Members Heading (Outside Box) -->
+            <div class="slds-grid slds-align-center slds-m-top_medium slds-m-bottom_x-small">
+              <lightning-icon 
+                icon-name="standard:contact" 
+                alternative-text="Campaign Members" 
+                size="small" 
+                class="slds-m-right_small">
+              </lightning-icon>
+              <h3 class="slds-text-heading_small">Campaign Members</h3>
+            </div>
+          
+            <!--  Campaign Members Box -->
+            <div class="slds-box slds-theme_default slds-p-around_small">
+              <template if:true={campaignMembers}>
+                <ul class="slds-list_dotted">
+                  <template for:each={campaignMembers} for:item="member">
+                    <li key={member.Id}>{member.Contact.Name} - {member.Status}</li>
+                  </template>
+                </ul>
+              </template>
+              <template if:false={campaignMembers}>
+                <p class="slds-text-color_weak">No members found.</p>
+              </template>
+            </div>
+          </div>
+  
+        <!-- Column 3: Campaign Posters -->
+        <div class="slds-col slds-size_1-of-3 slds-p-around_small">
+            <div class="slds-grid slds-align-center slds-m-bottom_x-small">
+              <lightning-icon 
+                icon-name="standard:event" 
+                alternative-text="Campaign Poster" 
+                size="small" 
+                class="slds-m-right_small">
+              </lightning-icon>
+              <h3 class="slds-text-heading_small">Campaign Poster</h3>
+            </div>
+          
+            <div class="slds-box slds-theme_default" style="height: 230px; padding: 0;">
+              <img src={campaignImageUrl} alt="Campaign Poster"
+                   style="height: 100%; width: 100%; object-fit: cover; border-radius: 4px;" />
+            </div>
+        </div>
+
+      </div>
+    </lightning-card>
+  </template>
+  

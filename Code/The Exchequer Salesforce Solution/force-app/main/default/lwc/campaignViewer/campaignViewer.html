@@ -1,0 +1,56 @@
+<template>
+  <div class="camp-heading left-align">
+    <h1>Upcoming Events</h1>
+    <p>Browse through all the upcoming events that will be a part of Exchequer.</p>
+  </div>
+  <div class="campaign-container">
+
+    <div class="campaign-box">
+
+      <!-- Poster with Time Overlay -->
+      <div class="promo-banner">
+        <img src={posterUrl} alt="Campaign Poster" class="banner-img" />
+        <div class="bottom-fade-overlay">
+          <div class="overlay-content">
+            <p class="big-text">FRIDAY<br /><span>08:00 PM</span></p>
+            <p class="offer-note">15% off on first drink of the night</p>
+          </div>
+        </div>
+      </div>
+  
+      <!-- Title and Tagline -->
+      <div class="title-block">
+        <h2 class="main-title">🔥 {currentCampaign.Name}</h2>
+        <p class="tagline">Feel the Beat, Own the Night</p>
+      </div>
+  
+      <!-- Event Details -->
+      <div class="info-block">
+        <p class="caption-line">📅 <strong>Event Duration:</strong> {currentCampaign.StartDate} to {currentCampaign.EndDate}</p>
+        <p class="caption-line">📍 <strong>Venue:</strong> The Exchequer Revamp</p>
+        <p class="caption-line highlight-caption">💥 15% off on the first drink of the night</p>
+        <p class="caption-line">🎵 Feel the beat, own the night</p>
+      </div>
+  
+    </div>
+
+    <!-- Navigation -->
+    <div class="navigation-buttons">
+      <lightning-button label="Previous" onclick={showPrevious} variant="brand-outline"></lightning-button>
+      <lightning-button label="Next" onclick={showNext} variant="brand"></lightning-button>
+    </div>
+
+    <!-- Calendar -->
+    <div class="calendar-box">
+      <h3 class="calendar-heading">Event Days - {calendarTitle}</h3>
+      <div class="calendar-grid">
+        <template for:each={calendarDays} for:item="day">
+          <div key={day.dateStr} class={day.className}>
+            {day.day}
+          </div>
+        </template>
+      </div>
+    </div>
+
+  </div>
+</template>

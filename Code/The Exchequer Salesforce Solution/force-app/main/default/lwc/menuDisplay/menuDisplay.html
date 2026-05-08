@@ -1,0 +1,16 @@
+<template>
+    <div class="menu-wrapper">
+        <!-- Menu Display Box -->
+        <div class="menu-box">
+            <h2 class="menu-heading">{menuTitle}</h2>
+            <img src={menuImage} alt="Menu Image" class="menu-img" />
+            <p class="menu-desc">{menuDescription}</p>
+        </div>
+
+        <!-- Toggle Buttons -->
+        <div class="toggle-buttons">
+            <button class={valentineBtnClass} onclick={showValentineMenu}>Valentine's Menu</button>
+            <button class={christmasBtnClass} onclick={showChristmasMenu}>Christmas Menu</button>
+        </div>
+    </div>
+</template>

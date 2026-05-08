@@ -1,0 +1,68 @@
+<template>
+    <!-- HERO + HEADING Grid Section -->
+    <div class="top-grid">
+        <div class="left-content">
+            <img src={deliveryPoster} alt="Delivery Promo" />
+        </div>
+        <div class="right-content">
+            <div class="promo-heading right-align">
+                <h1>Your Favorites, Delivered Fast 🚚</h1>
+                <p>Order now and enjoy premium products delivered to your doorstep!</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- MAIN SECTION: Inventory + Cart -->
+    <div class="container">
+        <!-- INVENTORY -->
+        <div class="inventory">
+            <template for:each={inventoryItems} for:item="item">
+                <div key={item.Id} class="item-card">
+                    <img src={wineImage} alt="Item" />
+                    <div class="item-details">
+                        <h3 class="product-name">{item.Name}</h3>
+                        <div class="product-meta">
+                            <p><strong>Category:</strong> {item.Category__c}</p>
+                            <p><strong>Supplier:</strong> {item.Supplier__c}</p>
+                        </div>
+                        <div class="product-price">Price: <strong>${item.Cost_Per_Unit__c}</strong></div>
+                        <button onclick={handleAddToCart} data-id={item.Id}>Add to Cart</button>
+                    </div>
+                </div>
+            </template>
+        </div>
+
+        <!-- CART -->
+        <div class="cart">
+            <h2>Cart</h2>
+            <template if:true={cart.length}>
+                <div class="cart-header">
+                    <span>Product</span>
+                    <span>Qty</span>
+                    <span>Price</span>
+                    <span>Total</span>
+                    <span></span>
+                </div>
+                <template for:each={cart} for:item="item">
+                    <div key={item.Id} class="cart-item">
+                        <div class="cart-name">
+                            <strong>{item.Name}</strong>
+                            <p class="sku">#{item.category}</p>
+                        </div>
+                        <div>{item.quantity}</div>
+                        <div>${item.price}</div>
+                        <div>${item.total}</div>
+                        <button class="remove" data-id={item.Id} onclick={removeFromCart}>×</button>
+                    </div>
+                </template>
+                <div class="cart-footer">
+                    <button class="checkout">Pay {cart.length} Items</button>
+                    <span class="total">Total: ${totalPrice}</span>
+                </div>
+            </template>
+            <template if:false={cart.length}>
+                <p>Your cart is empty.</p>
+            </template>
+        </div>
+    </div>
+</template>

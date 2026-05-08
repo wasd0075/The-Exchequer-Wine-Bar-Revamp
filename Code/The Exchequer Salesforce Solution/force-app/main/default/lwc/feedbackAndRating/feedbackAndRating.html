@@ -1,0 +1,67 @@
+<template>
+    <div class="rating-box">
+  
+      <div class="container">
+        <!-- LEFT: Overall Rating -->
+        <div class="left">
+          <div class="overall-box">
+            <h1>Overall Rating</h1>
+            <div class="rating-score">{averageRating}</div>
+            <p>based on {totalReviews} ratings</p>
+      
+            <div class="stars">
+              <template for:each={starArray} for:item="star">
+                <span key={star} class="star">{star}</span>
+              </template>
+            </div>
+      
+            <template for:each={barData} for:item="item">
+              <div key={item.label} class="bar-row">
+                <span>{item.label} Stars</span>
+                <div class="bar">
+                  <div class="fill" style={item.style}></div>
+                </div>
+              </div>
+            </template>
+      
+            <p class="desc">
+              This shows the overall rating of the customer helping us improve. These values provide insights as to what is lacking, helping us to keep up with the customer demands.
+            </p>
+          </div>
+        </div>
+  
+        <!-- RIGHT: Reviews -->
+        <div class="right">
+          <h2 class="review-heading">Reviews</h2>
+          <div class="review-table-container">
+              <div class="review-table-header">
+                  <span class="col rating-col">Rating</span>
+                  <span class="col comment-col">Comment</span>
+                  <span class="col id-col">ID</span>
+                  <span class="col date-col">Date</span>
+              </div>
+              <div class="review-table-body">
+                  <template for:each={reviews} for:item="review">
+                      <div class="review-row" key={review.name}>
+                        <span class="col rating-col stars">
+                          <template for:each={review.stars} for:item="star">
+                              <span key={star.key}>{star.char}</span>
+                          </template>
+                        </span>                                         
+                          <span class="col comment-col comment">{review.comment}</span>
+                          <span class="col id-col meta">{review.name}</span>
+                          <span class="col date-col meta">{review.date}</span>
+                      </div>
+                  </template>
+              </div>
+          </div>
+          <div class="button-container">
+              <button class="custom-button" onclick={navigateToNewFeedback}>Give Feedback</button>
+          </div>
+      </div>
+
+      </div>
+  
+    </div>
+  </template>
+  

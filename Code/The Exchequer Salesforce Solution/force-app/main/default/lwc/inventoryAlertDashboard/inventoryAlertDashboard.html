@@ -1,0 +1,65 @@
+<template>
+    <lightning-card title="Critical Inventory Items">
+      <!-- Inventory List Table -->
+      <div class="slds-box slds-theme_default slds-m-bottom_small">
+        <table class="slds-table slds-table_cell-buffer slds-table_bordered">
+          <thead>
+            <tr>
+              <th>Item Name</th>
+              <th>Expiry In (Days)</th>
+              <th>Waste Units</th>
+              <th>Action</th>
+            </tr>
+          </thead>
+          <tbody>
+            <template for:each={criticalInventory} for:item="item">
+              <tr key={item.Id}>
+                <td>{item.Name}</td>
+                <td>{item.Expiry_In_Dates__c}</td>
+                <td>{item.Waste_Units__c}</td>
+                <td>
+                  <lightning-button label="Details" data-id={item.Id} onclick={handleShowDetails} variant="brand"></lightning-button>
+                </td>
+              </tr>
+            </template>
+          </tbody>
+        </table>
+      </div>
+  
+      <!-- Alert Message -->
+      <div class="slds-box slds-theme_alert-texture slds-theme_warning slds-m-bottom_small" if:true={showAlert}>
+        <p><strong>⚠️ Alert:</strong> This item is nearing expiry and has high waste!</p>
+      </div>
+      <div class="slds-box slds-theme_shade slds-m-bottom_small" if:false={showAlert}>
+        <p>No alert for this item.</p>
+      </div>
+  
+      <!-- Inventory Details -->
+      <div class="slds-box slds-theme_default slds-m-bottom_small">
+        <template if:true={selectedItem}>
+          <h3 class="slds-text-heading_small">Inventory Details</h3>
+          <p><strong>Item:</strong> {selectedItem.Name}</p>
+          <p><strong>Expiry In:</strong> {selectedItem.Expiry_In_Dates__c} days</p>
+          <p><strong>Waste Units:</strong> {selectedItem.Waste_Units__c}</p>
+          <p><strong>Category:</strong> {selectedItem.Category__c}</p>
+          <p><strong>Vendor:</strong> {selectedItem.Supplier__c}</p>
+        </template>
+      </div>
+  
+      <!-- Task Details -->
+      <div class="slds-box slds-theme_default">
+        <h3 class="slds-text-heading_small">Associated Tasks</h3>
+        <template if:true={associatedTasks.length}>
+          <ul class="slds-list_dotted">
+            <template for:each={associatedTasks} for:item="task">
+              <li key={task.Id}>{task.Subject} - {task.Status}</li>
+            </template>
+          </ul>
+        </template>
+        <template if:false={associatedTasks.length}>
+          <p class="slds-text-color_weak">No tasks found for this item.</p>
+        </template>
+      </div>
+    </lightning-card>
+  </template>
+  

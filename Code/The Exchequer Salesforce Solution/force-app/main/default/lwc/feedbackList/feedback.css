@@ -1,0 +1,7 @@
+.cell-border-left {
+    border-left: 1px solid #d8dde6;
+  }
+
+  .one-line-btn {
+    white-space: nowrap;
+  }

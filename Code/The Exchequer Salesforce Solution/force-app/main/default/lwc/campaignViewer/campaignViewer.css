@@ -1,0 +1,160 @@
+/* Main Container */
+.campaign-container {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  padding: 1.5rem;
+  background-color: #f9f9f9;
+}
+/* Full Campaign Promo Box */
+.campaign-box {
+  border: 1px solid black;
+  border-radius: 1rem;
+  background: white;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  padding: 0 0 1.2rem 0;
+  max-width: 500px;
+  margin: auto;
+}
+
+/* Poster Styling */
+.promo-banner {
+  position: relative;
+}
+
+.banner-img {
+  width: 100%;
+  display: block;
+  border-top-left-radius: 1rem;
+  border-top-right-radius: 1rem;
+}
+
+/* Bottom Fade Overlay for Time & Offer */
+.bottom-fade-overlay {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background: linear-gradient(to top, rgba(0,0,0,0.85), transparent);
+  padding: 1rem;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+.overlay-content {
+  text-align: center;
+}
+
+.big-text {
+  font-size: 1.4rem;
+  font-weight: bold;
+}
+
+.big-text span {
+  font-size: 1.2rem;
+}
+
+.offer-note {
+  font-size: 0.85rem;
+  font-weight: 500;
+  margin-top: 0.3rem;
+}
+
+/* Title + Tagline Block */
+.title-block {
+  padding: 1rem 1.5rem 0.5rem;
+  border-bottom: 1px solid #eee;
+}
+
+.main-title {
+  font-size: 1.3rem;
+  font-weight: 700;
+  margin-bottom: 0.3rem;
+}
+
+.tagline {
+  font-size: 0.95rem;
+  color: #555;
+}
+
+/* Event Details Section */
+.info-block {
+  padding: 0.5rem 1.5rem;
+}
+
+.caption-line {
+  font-size: 0.95rem;
+  margin: 0.4rem 0;
+}
+
+.highlight-caption {
+  color: #c0392b;
+  font-weight: bold;
+}
+
+/* Navigation */
+.navigation-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
+
+/* Calendar */
+.calendar-box {
+  background: #ffffff;
+  border-radius: 1rem;
+  padding: 1.5rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.07);
+}
+
+.calendar-heading {
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.calendar-grid {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 0.4rem;
+}
+
+.day, .highlight {
+  padding: 0.6rem;
+  text-align: center;
+  border-radius: 0.5rem;
+  font-weight: 500;
+  font-size: 0.9rem;
+}
+
+.day {
+  background-color: #f2f2f2;
+  color: #333;
+}
+
+.highlight {
+  background-color: #ffd700;
+  color: #000;
+}
+
+.camp-heading.left-align {
+  text-align: left;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.camp-heading.left-align h1 {
+  font-size: 2rem;
+  font-weight: 800;
+  color: #222;
+  margin-bottom: 0.5rem;
+}
+
+.camp-heading.left-align p {
+  font-size: 1.1rem;
+  color: #555;
+  margin-left: auto;
+  max-width: 500px;
+}

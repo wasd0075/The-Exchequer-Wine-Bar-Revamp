@@ -1,0 +1,114 @@
+<template>
+    <lightning-card>
+      <div class="slds-grid slds-wrap" style="height: 250px; margin-top: -10px">
+  
+        <!-- 🟦 Column 1: Feedback List with aligned box -->
+        <div class="slds-col slds-size_1-of-3 slds-p-around_small" style="border-right: 1px solid #e5e5e5; margin-top: -12px">
+            <!-- Title aligned with padding -->
+            <div class="slds-p-around_small slds-grid slds-align-center" style="margin-left: 5px;">
+                <lightning-icon 
+                  icon-name="standard:feedback" 
+                  alternative-text="Feedback"
+                  size="small"
+                  class="slds-m-right_small">
+                </lightning-icon>
+                <h3 class="slds-text-heading_small">Feedback List</h3>
+            </div>
+          
+            <!-- Outer wrapper gives consistent left/right padding -->
+            <div style="padding-left: 1rem; padding-right: 0;">
+              <!-- Inner box with NO padding for flush table alignment inside -->
+              <div class="slds-box slds-theme_default"
+                   style="max-height: 200px; overflow-y: auto; overflow-x: auto; padding: 0;">
+                
+                <table class="slds-table slds-table_cell-buffer slds-table_bordered slds-no-row-hover" style="margin: 0;">
+                  <thead>
+                    <tr class="slds-line-height_reset">
+                      <th scope="col"><div class="slds-truncate">Feedback ID</div></th>
+                      <th scope="col" class="cell-border-left"><div class="slds-truncate">Customer</div></th>
+                      <th scope="col" class="cell-border-left"><div class="slds-truncate">Email</div></th>
+                      <th scope="col" class="cell-border-left"><div class="slds-truncate">Action</div></th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <template for:each={feedbackRecords} for:item="feedback">
+                      <tr key={feedback.Id}>
+                        <td><div class="slds-truncate">{feedback.Name}</div></td>
+                        <td class="cell-border-left"><div class="slds-truncate">{feedback.Customer_Name__c}</div></td>
+                        <td class="cell-border-left"><div class="slds-truncate">{feedback.Email__c}</div></td>
+                        <td class="cell-border-left">
+                          <lightning-button
+                            label="Details"
+                            data-id={feedback.Id}
+                            onclick={handleShowDetails}
+                            variant="neutral"
+                            class="one-line-btn">
+                          </lightning-button>
+                        </td>
+                      </tr>
+                    </template>
+                  </tbody>
+                </table>
+              </div>
+            </div>
+          </div>
+
+        <!-- 🟨 Column 2: Feedback Details -->
+        <div class="slds-col slds-size_1-of-3 slds-p-around_small" style="border-right: 1px solid #e5e5e5;">
+            <div class="slds-grid slds-align-center" style="margin-bottom: 10px;">
+                <lightning-icon 
+                  icon-name="standard:feedback" 
+                  alternative-text="Feedback"
+                  size="small"
+                  class="slds-m-right_small">
+                </lightning-icon>
+                <h3 class="slds-text-heading_small">Feedback Details</h3>
+            </div>
+        
+            <div class="slds-box slds-theme_default slds-p-around_small" style="height: 200px;">
+              <template if:true={selectedFeedback}>
+                <div class="slds-text-heading_small slds-m-bottom_x-small">{selectedFeedback.Customer_Name__c}</div>
+                <dl class="slds-list_horizontal slds-wrap">
+                  <dt class="slds-item_label slds-text-color_weak slds-truncate" style="width: 40%;">Email:</dt>
+                  <dd class="slds-item_detail" style="width: 60%; white-space: normal; word-break: break-word;">
+                    {selectedFeedback.Email__c}
+                  </dd>
+        
+                  <dt class="slds-item_label slds-text-color_weak slds-truncate" style="width: 40%;">Comment:</dt>
+                  <dd class="slds-item_detail" style="width: 60%; white-space: normal; word-break: break-word;">
+                    {selectedFeedback.Feedback_Comments__c}
+                  </dd>
+        
+                  <dt class="slds-item_label slds-text-color_weak slds-truncate" style="width: 40%;">Created:</dt>
+                  <dd class="slds-item_detail" style="width: 60%; white-space: normal; word-break: break-word;">
+                    {selectedFeedback.CreatedDate}
+                  </dd>
+                </dl>
+              </template>
+              <template if:false={selectedFeedback}>
+                <p class="slds-text-color_weak">No feedback selected.</p>
+              </template>
+            </div>
+        </div>
+  
+        <!-- 🟩 Column 3: Graph (Placeholder) -->
+        <div class="slds-col slds-size_1-of-3 slds-p-around_small">
+            <div class="slds-grid slds-align-center slds-m-bottom_x-small">
+              <lightning-icon 
+                icon-name="standard:insights" 
+                alternative-text="Insights"
+                size="small"
+                class="slds-m-right_small">
+              </lightning-icon>
+              <h3 class="slds-text-heading_small">Feedback Stats</h3>
+            </div>
+          
+            <div class="slds-box slds-theme_default slds-box_xx-small" style="height: 200px;">
+              <canvas lwc:dom="manual" class="chartCanvas" style="width: 100%; height: 100%;"></canvas>
+            </div>
+        </div>
+  
+      </div>
+    </lightning-card>
+  </template>
+  

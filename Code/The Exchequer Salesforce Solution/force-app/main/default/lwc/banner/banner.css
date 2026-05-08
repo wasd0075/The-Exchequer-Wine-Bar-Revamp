@@ -1,0 +1,285 @@
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+    
+    html {
+      scroll-behavior: auto;
+    }
+    
+    /* Body Styling */
+    body {
+    font-family: "Kanit", serif;
+    font-weight: 200;
+    font-style: normal;
+    line-height: 1.5;
+    color: #fff;
+    overflow-x: hidden;
+    }
+    
+    /* Hero Section */
+    .hero-section {
+    position: relative;
+    will-change: transform, background-color; /* Optimize for performance */
+    height: 100vh; /* Full height of the viewport */
+    overflow: hidden; /* Prevent scrolling artifacts */
+    display: flex;
+    justify-content: flex-start;
+    align-items: center; /* Position content at the bottom */
+    text-align: left;
+    padding-left: 5%; /* Optional: Padding for spacing on the sides */
+    overflow: hidden;
+    }
+    
+    /* Background Image with Reduced Opacity */
+    .hero-section::before {
+    content: ""; /* Necessary for pseudo-element */
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('foodBack2.jpg'); /* Add your background image */
+    background-size: cover; /* Ensure the image covers the entire section */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Prevent tiling */
+    opacity: 0.2; /* Set the opacity to 50% */
+    z-index: 0; /* Ensure it's behind other content */
+    pointer-events: none; /* Prevent interaction */
+    }
+    
+    .hero-carousel {
+      position: absolute;
+      top: 0; left: 0;
+      width: 100%; height: 100%;
+      overflow: hidden;
+      z-index: 0;
+    }
+    
+    .carousel-slide {
+      position: absolute;
+      width: 100%; height: 100%;
+      background-size: cover;
+      background-position: center;
+      opacity: 0;
+      transition: opacity 0.8s ease-in-out;
+    }
+    
+    .carousel-slide.active {
+      opacity: 1;
+      z-index: 1;
+    }
+    
+    /* Arrows */
+    .carousel-arrow {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      font-size: 2.5rem;
+      background: rgba(0,0,0,0.4);
+      color: #fff;
+      border: none;
+      cursor: pointer;
+      z-index: 2;
+      padding: 5px 20px;
+      border-radius: 20px;
+    }
+    
+    .carousel-arrow.left {
+      left: 20px;
+    }
+    
+    .carousel-arrow.right {
+      right: 20px;
+    }
+    
+    /* Dots */
+    .carousel-dots {
+      position: absolute;
+      bottom: 15px;
+      left: 50%;
+      transform: translateX(-50%);
+      display: flex;
+      gap: 10px;
+      z-index: 2;
+    }
+    
+    .dot {
+      width: 14px;
+      height: 14px;
+      border-radius: 50%;
+      background-color: rgba(255,255,255,0.6);
+      cursor: pointer;
+      transition: background-color 0.3s;
+    }
+    
+    .dot.active {
+      background-color: #ffffff;
+    }    
+    
+    /* Hero Content */
+    .hero-content {
+    position: relative;
+    z-index: 2; /* Ensure text is above the moving images */
+    text-align: left; /* Align text content to the left */
+    color: #212121;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem; /* Space between the text and button */
+    width: 95%; /* Stretch to full width */
+    margin-top: 10%;
+    }
+    
+    /* Headline */
+    .headline {
+    font-size: 4.9rem; /* Large font size */
+    font-weight: bold;
+    line-height: 1.1; /* Compact line spacing */
+    margin-top: -1.2%;
+    margin-left: 2%;
+    }
+    
+    /* Hero Line (for "MINIMIZE WASTE" and the button) */
+    .hero-line {
+    display: flex; /* Use flexbox to align the text and button */
+    align-items: center; /* Vertically align items */
+    justify-content: space-between; /* Push text to the left and button to the right */
+    width: 100%; /* Full-width alignment */
+    }
+    
+    /* Call-to-Action Button */
+    .cta-button {
+    padding: 20px 40px;
+    background-color: #FFEB3B; /* Yellow background */
+    color: #212121; /* Dark text */
+    border: 2px solid #212121; /* Matching border */
+    border-radius: 30px; /* Rounded corners for larger button */
+    font-size: 1.5rem; /* Button text size */
+    font-family: "Kanit", serif;
+    font-weight: 500;
+    font-style: normal;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: all 0.3s ease; /* Smooth transitions */
+    display: inline-flex; /* For clock icon alignment */
+    align-items: center; /* Vertically align text and icon */
+    justify-content: center;
+    gap: 15px; /* Space between clock icon and text */
+    margin-left: auto; /* Push button to the right */
+    margin-right: 2%;
+    }
+    
+    /* Icon inside Button */
+    .cta-button i {
+    font-size: 1.5rem; /* Icon size */
+    }
+    
+    /* Hover Effect for Button */
+    .cta-button:hover {
+    background-color: #212121; /* Black background on hover */
+    color: #FFEB3B; /* White text on hover */
+    border-color: #FFEB3B; /* Black border */
+    }
+    
+    .cta-button:hover i {
+    color: #FFEB3B; /* White icon on hover */
+    }
+    
+    /* Description Container */
+      .description-container {
+        display: flex;
+        align-items: center;
+        gap: 1rem; /* Space between arrow and text */
+        transform: translateY(0); /* Keep at the original position */
+      }
+      
+      /* Arrow Box */
+      .arrow-box {
+        width: 50px; /* Larger size for the box */
+        height: 50px; /* Larger size for the box */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border: 3px solid #212121; /* Darker and thicker border */
+        border-radius: 18px; /* Rounded corners */
+        position: relative;
+        margin-left: 2%;
+      }
+      
+      /* Arrow */
+      .arrow {
+        width: 16px; /* Larger arrow size */
+        height: 16px; /* Larger arrow size */
+        border: solid #212121; /* Arrow color */
+        border-width: 0 5px 5px 0; /* Thicker arrow lines */
+        display: inline-block;
+        transform: rotate(45deg); /* Initial rotation (down) */
+        animation: rotateArrow 1.5s ease forwards; /* Rotate arrow */
+        animation-delay: 0.5s; /* Matches description animation delay */
+      }
+      
+      /* Rotate Arrow Animation */
+      @keyframes rotateArrow {
+        from {
+          transform: rotate(45deg); /* Downward arrow */
+        }
+        to {
+          transform: rotate(315deg); /* Rightward arrow */
+        }
+      }
+      
+      /* Description Text */
+      .description {
+        font-size: 1.8rem; /* Larger font size for text */
+        color: #212121; /* Dark text */
+        margin: 0;
+        overflow: hidden; /* Hide overflowing text for writing effect */
+        display: inline-block;
+        max-width: 0; /* Start with no width */
+        white-space: nowrap; /* Prevent text from breaking into multiple lines */
+        animation: writeText 5s ease forwards; /* Writing text animation */
+        animation-delay: 0.5s; /* Matches arrow animation delay */
+      }
+      
+      /* Text Writing Animation */
+      @keyframes writeText {
+        from {
+          max-width: 0; /* Start with no width */
+        }
+        to {
+          max-width: 100%; /* Expand to full width */
+        }
+      }
+      
+      /* Social Media Container */
+      .social-media {
+        display: flex;
+        justify-content: center; /* Center icons horizontally */
+        gap: 1.5rem; /* Space between icons */
+      }
+      
+      /* Social Media Icons */
+      .social-icon {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 40px; /* Circle diameter */
+        height: 40px; /* Circle diameter */
+        border-radius: 50%; /* Makes it a perfect circle */
+        border: 2px solid black;
+        background-color: #888888; /* Circle background color */
+        color: #fff; /* Icon color */
+        text-decoration: none; /* Remove underline for links */
+        font-size: 1.3rem; /* Icon size */
+        transition: background-color 0.3s ease, transform 0.3s ease; /* Smooth hover effects */
+        margin-top: 3.5%;
+      }
+      
+      /* Hover Effect */
+      .social-icon:hover {
+        background-color: #FFEB3B; /* Yellow background on hover */
+        color: #888888; /* Dark icon color on hover */
+        transform: scale(1.2); /* Slightly enlarge on hover */
+      }
